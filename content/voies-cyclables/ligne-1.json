@@ -4,11 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Rond-point des rampes",
+        "line": 1,
+        "link": "/brev-1#rampes-daccès-au-port"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.487989184468887,
+          48.38294168965436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "line": 1,
         "name": "Route du pont Albert Louppe",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-1#route-pont-louppe"
+        "link": "/brev-1#route-du-pont-albert-louppe"
       },
       "geometry": {
         "coordinates": [
@@ -86,7 +102,7 @@
         "name": "Boulevard Léopold Maissin",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-1#leopold-maissin"
+        "link": "/brev-1#boulevard-léopold-maissin"
       },
       "geometry": {
         "coordinates": [
@@ -161,7 +177,7 @@
         "name": "Rue de Palaren",
         "status": "done",
         "type": "voie-verte",
-        "link": "/brev-1#palaren"
+        "link": "/brev-1#rue-de-palaren"
       },
       "geometry": {
         "coordinates": [
@@ -351,7 +367,7 @@
         "name": "Route du vieux Saint-Marc",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-1#vieux-saint-marc"
+        "link": "/brev-1#route-du-vieux-saint-marc"
       },
       "geometry": {
         "coordinates": [
@@ -490,7 +506,7 @@
         "name": "Rue du Sénateur Pichon",
         "status": "unknown",
         "type": "bidirectionnelle",
-        "link": "/brev-1#pichon"
+        "link": "/brev-1#rue-du-sénateur-pichon"
       },
       "geometry": {
         "coordinates": [
@@ -525,7 +541,7 @@
         "name": "Rue de l'Élorn",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-1#elorn"
+        "link": "/brev-1#rue-de-lélorn"
       },
       "geometry": {
         "coordinates": [
@@ -556,7 +572,7 @@
         "name": "Rue Jean-Marie Le Bris",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-1#le-bris"
+        "link": "/brev-1#rue-jean-marie-le-bris"
       },
       "geometry": {
         "coordinates": [
@@ -592,10 +608,10 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "name": "De Français libres au Parc à Chaines",
+        "name": "Rampes d'accès au port",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-1#???"
+        "link": "/brev-1#rampes-daccès-au-port"
       },
       "geometry": {
         "coordinates": [

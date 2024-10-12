@@ -63,7 +63,7 @@ Profiter des aménagements en faveur des Transports Collectifs pour réaliser de
 ### Route de Brest
 La piste cyclable existant est déjà de bonne qualité, il ne manque pas grand chose pour qu'elle soit parfaite.
 Quelques suggestions :
-- Ajouter un séparateur physique (béton, bois, acier) entre la route et la piste
+- Ajouter un dispositif de retenue (barrière) entre la route et la piste
 - Tailler réguilerement la végétation débordante
 - Élargir la piste
 
