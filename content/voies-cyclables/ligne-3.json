@@ -18,6 +18,36 @@
       }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Rond-point du Spernot",
+        "line": 3,
+        "link": "/brev-3"
+      },      "geometry": {
+        "coordinates": [
+          -4.508030378126648,
+          48.41290439945132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Rond-point de Penn Ar C'hleuz",
+        "line": 3,
+        "link": "/brev-3"
+      },      "geometry": {
+        "coordinates": [
+          -4.479570165351049,
+          48.41456284172031
+        ],
+        "type": "Point"
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           [

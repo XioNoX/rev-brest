@@ -3,7 +3,7 @@ name: BREV 1
 line: 1
 from: Bas de Siam
 to: Plougastel Daoulas
-description: La ligne 1 des BREVs, la littorale, permettra de relier Plougastel-Daoulas au centre de Brest en passant par le Moulin Blanc, Océanopolis et le port de commerce en longeant la rade. Cette ligne est déjà aboutie sur plusieurs de ses segments, mais manque de continuité.
+description: La ligne 1 des BREVs, la littorale, reliera Plougastel-Daoulas au centre de Brest en passant par le Moulin Blanc, Océanopolis et le port de commerce en longeant la rade. Cette ligne est déjà aboutie sur plusieurs de ses segments, mais manque de continuité.
 cover: ../medias/1-paluden.jpg
 ---
 
@@ -16,7 +16,7 @@ Cette ligne est principalement illustrée par des publications provenant de la p
 Cette ligne commencerait (ou terminerait) dans le secteur bas de Siam (pont de Recouvrance, Chateau), où elle ferait la jonction avec la :line-link{line=4}.
 
 ### Rampes d'accès au port
-Gros point problématique au niveau du rond point entre les rampes comme illustré dans les publications ci-dessous. On pourrait imaginer dédier une des rampes aux transports en communs, véhicules d'urgences et vélos, ou encore passer chaque rampe en sens unique pour la circulation générale.
+Point de vigilance au niveau du rond point entre les rampes comme illustré dans les publications ci-dessous. On pourrait imaginer dédier une des rampes aux transports en communs, véhicules d'urgences et vélos, ou encore passer chaque rampe en sens unique pour la circulation générale.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCyclistesaBrest%2Fposts%2Fpfbid02yehW5rFxsS58NtRLvZ6G7XfawPycVeg588D7ENgsMehqTZx4dECprsY5YbbcSSB6l&show_text=true&width=300" width="300" height="900" style="border:none;overflow:hidden;display:inline-block;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCyclistesaBrest%2Fposts%2Fpfbid02YeppXzkuzenPaexQS2UcCTGhopkmzkbetMAiCtofVG6dfBWWJRcB2ewGCtoc4fUKl&show_text=true&width=300" width="300" height="900" style="border:none;overflow:hidden;display:inline-block;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -29,7 +29,7 @@ Itinéraire mal indiqué au niveau du rond point du parc à chaîne, la travers�
 ### Rue de l'Élorn
 
 
-Le revêtement est entièrement à revoir, ainsi que de donner la priorité aux vélos aux intersections.
+Le revêtement est entièrement à revoir. Il faudrait aussi donner la priorité aux vélos aux intersections.
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCyclistesaBrest%2Fposts%2Fpfbid06tHZkwkQXmMXwh8DVuVz4xTHtLREmBq4AAnm3V6TBbWQfFs4VWeRKTWhJvAMuAuYl&show_text=true&width=500" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -44,12 +44,12 @@ Bravo à Brest Métropole pour ce premier rond point à la Hollandaise.
 
 
 ### Route du vieux Saint-Marc
-Une des meilleures pistes cyclables de Brest. Seul la sortie au niveau du rond point des Grèbes est a sécuriser comme le montre les (au moins) 2 accidents qui ont impliqués des cyclistes le 4 octobre 2018 et 4 décembre 2023
+Une des meilleures pistes cyclables de Brest. Seul la sortie au niveau du rond point des Grèbes est a sécuriser comme le montre les (au moins) 2 accidents qui ont impliqués des cyclistes le 4 octobre 2018 et 4 décembre 2023.
 
 
 ### Rues Kerjegu, Colas et Bérest
 
-Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
+Marqué "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
 ::banner{type="info"}
 **Schéma Directeur Vélo**
 
@@ -80,7 +80,7 @@ Gros potentiel pour y faire quelque chose de bien avec des cheminements piétons
 
 Le parking du Moulin Blanc est un lieu important de la ligne (présence d’arceaux, de borne VéloZef, …)
 
-La liaison entre la rue de Palaren et le parking du Moulin Blanc est complexe → conflit d’usage entre les automobilistes qui se garent, les cyclistes empruntant la bande cyclable et les piétons circulant dans la zone (entrée de plage, récemment centre nautique, …) d’autant plus que le sens “classique de circulation est inversée sur l’entrée de la rue de Palaren (cyclistes roulent à gauche).
+La liaison entre la rue de Palaren et le parking du Moulin Blanc est complexe → conflit d’usage entre les automobilistes qui se garent, les cyclistes empruntant la bande cyclable et les piétons circulant dans la zone (entrée de plage, récemment centre nautique, …) d’autant plus que le sens “classique" de circulation est inversé sur l’entrée de la rue de Palaren (cyclistes roulent à gauche).
 
 Il faudrait réussir à délimiter les différents usages, une meilleure clarté limiterait grandement les conflits.
 
