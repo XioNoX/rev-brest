@@ -201,20 +201,45 @@
         "name": "Rue de Brest",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4#???"
-      },      "geometry": {
+        "link": "/brev-4"
+      },
+      "geometry": {
         "coordinates": [
           [
-            -4.412285349062813,
-            48.428149150154695
+            -4.4121925445398915,
+            48.4281851735517
           ],
           [
-            -4.402055627453905,
-            48.43400875372856
+            -4.404312508740361,
+            48.43268318507316
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "id": "guipavas-rue-de-brest-commun",
+        "name": "Rue de Brest (nord)",
+        "status": "unknown",
+        "type": "aucun",
+        "link": "/brev-4"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -4.404319312070328,
+            48.43270704827094
           ],
           [
-            -4.40179910589967,
-            48.43429632798933
+            -4.402129561198706,
+            48.43397159191474
+          ],
+          [
+            -4.401797043473749,
+            48.434294449078436
           ]
         ],
         "type": "LineString"

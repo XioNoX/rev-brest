@@ -1,7 +1,7 @@
 ---
 name: BREV 2
 line: 2
-from: Saint-Renan
+from: Plouarzel
 to: Gare de Brest
 description: La BREV 2 permettrait de relier Saint-Renan à La gare de Brest par Guilers et le Parc Expo en moins de 30min. Elle suivrait une grande partie du cheminement existant et bénéficierait des nouveaux aménagements cyclables le long de la nouvelle ligne de tramway. Après Bellevue, la différence notable est qu'elle continuerait le long de la rue de Penfeld plutot que de faire un détour par les rives de Penfeld. Sur du long terme, elle pourrait etre continuée jusqu'à Plouarzel.
 cover: https://www.monreseaugrandit.fr/sites/default/files/inline-images/BREST_pers%208%20BD_0.jpg
@@ -75,7 +75,7 @@ Une suggestion à bas cout serait de changer le plan de circulation pour élimin
 D'autant plus important à proximité d'une école car cela réduirait le bruit, la pollution et le risque d'accident.
 ::
 
-À Guilers elle rencontrera la :line-link{line=7} pour que les habitants de Saint Renan puissent par exemple se rendre au Technopole à vélo en sécurité (moyennant un petit détour).
+À Guilers elle rencontrera la :line-link{line=7} pour que les habitants de Saint-Renan puissent par exemple se rendre au Technopole à vélo en sécurité (moyennant un petit détour).
 
 ### Rond-point de Kerebars
 
