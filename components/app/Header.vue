@@ -65,11 +65,27 @@
                     </NuxtLink> -->
                     <NuxtLink
                       to="https://umap.openstreetmap.fr/fr/map/services-velo-brest_1067200"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      target="_blank"
                       @click="close()"
                     >
-                      Services
+                    <span>Services</span>
+                      <div class="flex items-center">
+                        <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
+                      </div>
                     </NuxtLink>
+                    <NuxtLink
+                      to="https://barometre.parlons-velo.fr/2021/carte/#12.58/48.40716/-4.48494"
+                      target="_blank"
+                      class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      <span>Baromètre FUB Brest</span>
+                      <div class="flex items-center">
+                        <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
+                      </div>
+                    </NuxtLink>
+
                   </div>
                 </div>
               </PopoverPanel>
@@ -164,11 +180,13 @@
               </div>
             </div>
             <div class="mt-6">
-              <nav class="grid gap-y-8">
+              <nav class="grid gap-y-6">
+                <!-- Cartes -->
                 <NuxtLink
                   v-for="navItem in navItems"
                   :key="navItem.name"
                   :to="navItem.path"
+                  :target="navItem.target"
                   class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
                   @click="close()"
                 >
@@ -227,11 +245,12 @@ const { getVoieCyclablePath } = useUrl();
 const { getAssoName } = useConfig();
 
 const navItems = [
-  { name: 'Carte interactive', path: '/carte-interactive' },
+  { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
   // { name: 'Plan officiel', path: '/plan-officiel' },
   // { name: 'Évolution du réseau', path: '/evolution' },
-  { name: 'Services', path: 'https://umap.openstreetmap.fr/fr/map/services-velo-brest_1067200' },
-  { name: 'Compteurs', path: '/compteurs/velo' }
+  { name: 'Services', path: 'https://umap.openstreetmap.fr/fr/map/services-velo-brest_1067200', target: '_blank' },
+  { name: 'Compteurs', path: '/compteurs/velo', target: '_self' },
+  { name: 'Baromètre FUB Brest', path: 'https://barometre.parlons-velo.fr/2021/carte/#12.58/48.40716/-4.48494', target: '_blank' }
 ];
 
 const { data: voies } = await useAsyncData(() => {
