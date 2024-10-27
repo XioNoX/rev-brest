@@ -61,10 +61,12 @@ Pour l’instant, l’accès à la rue du Lantel depuis la Route de Bourg-Blanc 
 
 Le carrefour entre la rue du Lantel et la rue de la Fontaine sera aussi à sécuriser.
 
+De Gouesnou il serait possible de bifurquer sur la :line-link{line=7} pour rejoindre Bohars ou Guipavas.
+
 
 ### Partie centrale : Gouesnou - Kergaradec
 
-Cette partie serait commune avec la :line-link{line=6}
+Cette partie serait commune avec la :line-link{line=6}.
 
 Le tour de la place des Fusillés se fait en sens unique, le tracé vélo suivra ce sens. Puis rue de Brest et rond-point Charles de Gaulle pour quitter Gouesnou.
 
