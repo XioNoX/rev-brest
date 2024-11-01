@@ -8,7 +8,7 @@
         "name": "Rue du Chateau",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4#???"
+        "link": "/brev-4#rue-du-chateau"
       },
       "geometry": {
         "coordinates": [
@@ -31,7 +31,7 @@
         "name": "Rue Yves Collet",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4#???"
+        "link": "/brev-4#rue-yves-collet"
       },      "geometry": {
         "coordinates": [
           [
@@ -77,7 +77,7 @@
         "name": "Rue Sébastopol",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4#???"
+        "link": "/brev-4#rue-sébastopol"
       },
       "geometry": {
         "coordinates": [
@@ -112,7 +112,7 @@
         "name": "Rue de Paris",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4#???"
+        "link": "/brev-4#rue-de-paris"
       },
       "geometry": {
         "coordinates": [
@@ -143,7 +143,7 @@
         "name": "Boulevard de Coataudon",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/brev-4#???"
+        "link": "/brev-4#boulevard-de-coataudon"
       },
       "geometry": {
         "coordinates": [
@@ -178,7 +178,7 @@
         "name": "Boulevard Michel Briant",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4#???"
+        "link": "/brev-4#boulevard-michel-briand"
       },
       "geometry": {
         "coordinates": [
@@ -201,9 +201,8 @@
         "name": "Rue de Brest",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4"
-      },
-      "geometry": {
+        "link": "/brev-4#rue-de-brest"
+      },      "geometry": {
         "coordinates": [
           [
             -4.4121925445398915,
@@ -225,7 +224,7 @@
         "name": "Rue de Brest (nord)",
         "status": "unknown",
         "type": "aucun",
-        "link": "/brev-4"
+        "link": "/brev-4#rue-de-brest"
       },
       "geometry": {
         "coordinates": [

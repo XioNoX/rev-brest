@@ -118,12 +118,30 @@ streetView: 48.3835894,-4.3958007,3a,75y,188.23h,85.23t
 Seulement une bande cyclable dans le sens montant
 Portion dangereuse pour les vélos notamment lorsque 2 véhicules motorisés doivent se croiser.
 
-
 ### Rond point de Roc’h Kerezenn
+
+Quoi de mieux que de finir la ligne au future [pole d'échange multimodal](https://www.monreseaugrandit.fr/les-amenagements/PEM) construit dans le cadre du projet du tram ?
+* Environ 20 places de P+R situées au niveau du parking du centre commercial,
+* 20 places de covoiturage,
+* 2 places dépose minute,
+* 1 arrêt car/bus par sens
+
 ::banner{type="info"}
 **Schèma Directeur Vélo**
 
 Sécurisation du Rond-point de Roc’h Kerezenn
+
+**Le PEM Roc’h Kerezen (Ouest)**
+
+Aménagements des continuités cycles et piétonnes
+::
+
+::content-image
+---
+imageUrl: https://www.monreseaugrandit.fr/sites/default/files/styles/full_width_fallback/public/2023-10/BREST_pers%2024%20BD.jpg
+caption: Le pole d'échange multimodal de Plougastel-Daoulas
+credit: Brest Métropole
+---
 ::
 
 ### La suite ?

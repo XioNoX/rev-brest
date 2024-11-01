@@ -85,6 +85,12 @@
       "line": "12",
       "color": "#3789A5",
       "link": "https://www.bibus.fr/se-deplacer/horaires-et-plans-des-lignes/lignes/ligne-bus-12"
+    },
+    {
+      "type": "bus",
+      "line": "16",
+      "color": "#329542",
+      "link": "https://www.bibus.fr/se-deplacer/horaires-et-plans-des-lignes/lignes/ligne-bus-16"
     }
   ]
 }
