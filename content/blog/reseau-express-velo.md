@@ -6,8 +6,6 @@ imageUrl: https://www.tourisme-rennes.com/voy_content/uploads/2023/12/Rev-velo-r
 <small>Crédit photo : Rennes - Ville et Métropole - Arnaud Loubry</small>
 
 
-⚠️ *Travail en cours*
-
 ## Pourquoi ?
 Offrir une alternative viable à la voiture pour les trajets du quotidien.
 Plus grand frein a l'utilisation du vélo à Brest est le manque d'aménagements.

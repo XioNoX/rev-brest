@@ -3,12 +3,10 @@ name: BREV 5
 line: 5
 from: Recouvrance
 to: Bourg-Blanc
-description: La BREV 5 permettra de relier Bourg-Blanc à Gouesnou (20 minutes) et Gouesnou à Recouvrance (30 minutes), en passant par la zone de Kergaradec et le terminus du Tram (porte de Gouesnou), la prison, le quartier de Coataudon, Rue Montaigne, le pont de l’Harteloire et les Capucins. Une partie de cette BREV est commune avec la BREV 6 (Océanopolis - Plabennec), de Gouesnou à Kergaradec (D788).
+description: La BREV 5 permettra de relier Bourg-Blanc à Gouesnou (20 minutes) et Gouesnou à Recouvrance (30 minutes), en passant par la zone de Kergaradec et le terminus du Tram (porte de Gouesnou), la prison, le quartier de Coataudon, Rue Montaigne, le pont de l’Harteloire et les Capucins. Une partie de cette BREV est commune avec la BREV 6 (Saint-Marc - Plabennec), de Gouesnou à Kergaradec (D788).
 
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
-
-⚠️ *Travail en cours.*
 
 ## Tronçons, du nord au sud
 
