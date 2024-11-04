@@ -5,7 +5,7 @@ import { SitemapStream, streamToPromise } from 'sitemap';
 import { serverQueryContent } from '#content/server';
 import config from '~/config.json';
 
-const BASE_URL = 'https://cyclopolis.fr';
+const BASE_URL = 'https://brev.bapav.org';
 
 export default defineEventHandler(async event => {
   const sitemap = new SitemapStream({ hostname: BASE_URL });

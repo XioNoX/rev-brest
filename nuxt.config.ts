@@ -1,10 +1,10 @@
 import config from './config.json';
 
-const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.assoName}`;
+const TITLE = `Le BREV de Brest - ${config.assoName}`;
 const DESCRIPTION =
   `Plateforme citoyenne et associative, par ${config.assoName}. Imaginez avec nous un réseau cyclable sécurisé à Brest et ses alentours.`;
-const BASE_URL = 'https://rev.bapav.org';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const BASE_URL = 'https://brev.bapav.org';
+const COVER_IMAGE_URL = 'https://brev.bapav.org/medias/capture-carte.png';
 
 export default defineNuxtConfig({
   app: {
