@@ -3,7 +3,7 @@ name: BREV 6
 line: 6
 from: Saint-Marc
 to: Plabennec
-description: Lorem Ipsum
+description: Beaucoup de Plabennecois viennent travailler quotidiennement à Brest, certains d'entre eux prennent le car (lignes 20, 21 et 22), beaucoup vont en voiture, et trop peu prennent le vélo. Pourtant le terminus du Tram à la Porte de Gouesnou n'est qu'à une dizaine de kilomètre.
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
