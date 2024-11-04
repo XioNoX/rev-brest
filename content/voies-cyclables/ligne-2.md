@@ -3,7 +3,7 @@ name: BREV 2
 line: 2
 from: Plouarzel
 to: Gare de Brest
-description: La BREV 2 permettrait de relier Saint-Renan à La gare de Brest par Guilers et le Parc Expo en moins de 30min. Elle suivrait une grande partie du cheminement existant et bénéficierait des nouveaux aménagements cyclables le long de la nouvelle ligne de tramway. Après Bellevue, la différence notable est qu'elle continuerait le long de la rue de Penfeld plutot que de faire un détour par les rives de Penfeld. Sur du long terme, elle pourrait etre continuée jusqu'à Plouarzel.
+description: La BREV 2 permettrait de relier Saint-Renan à La gare de Brest par Guilers et le Parc Expo en moins de 30min. Elle suivrait une grande partie du cheminement existant et bénéficierait des nouveaux aménagements cyclables le long de la nouvelle ligne de tramway. Après Bellevue, la différence notable est qu'elle continuerait le long de la rue de Penfeld plutot que de faire un détour par les rives de Penfeld.
 cover: https://www.monreseaugrandit.fr/sites/default/files/inline-images/BREST_pers%208%20BD_0.jpg
 ---
 
@@ -101,3 +101,11 @@ Le manque de revetement pratiquable pas tout type de vélo est en effet le premi
 Marqué comme "terminé" car il n'y a rien de significatif à changer.
 
 Voilà, vous êtes arivé.e.s à Saint Renan. 👍
+
+### traversée de Saint Renan
+
+*À faire*
+
+### Route de Saint Renan
+
+"Les travaux de la future piste cyclable qui reliera Plouarzel et Saint-Renan viennent de débuter. La fin des travaux est prévue pour avant le début de l’été 2025." - [Le Télégramme 15 octobre 2024](https://www.letelegramme.fr/finistere/plouarzel-29810/une-nouvelle-piste-cyclable-entre-saint-renan-et-plouarzel-6682837.php)
