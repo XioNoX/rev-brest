@@ -11,7 +11,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 
 ### Partie Nord : Plabennec - Gouesnou
 
-Il existe une voie verte entre Plabennec et Gouesnou, qui passe par la zone humide de Lanorven, par les quartiers de Kersulgant, Quillien, le radôme de Météo France, et qui rentre dans Gouesnou par la rue des Marais. Cette voie verte est très jolie et très appréciée des promeneurs, mais elle est bien trop longue et sinueuse pour prétendre être empruntée par ceux qui veulent aller travailler en vélo à Gouesnou ou à Brest.
+Il existe une voie verte entre Plabennec et Gouesnou, qui passe par la zone humide de Lanorven, par les quartiers de Kersulgant, Quillien, le radôme de Météo France, et qui rentre dans Gouesnou par la rue des Marais. Cette voie verte est très jolie et très appréciée des promeneurs, mais elle est bien trop longue et sinueuse pour prétendre être empruntée par celles et ceux qui veulent aller travailler en vélo à Gouesnou ou à Brest.
 
 Pour l’instant, la voie qui allie rapidité et sûreté est celle qui quitte Plabennec par la route de Leslevret, puis qui passe par Kergren et Kerbrat-Gouesnou, et qui rejoint la rue Marie-Curie à l’entrée de la zone de Penhoat.
 
@@ -52,11 +52,11 @@ Cette partie est commune à la :line-link{line=5}, elle y est détaillée [ici](
 
 ### Partie Sud : Kergaradec - Saint-Marc
 
-La partie Brestoise de la :line-link{line=6} reliera le terminus du tram Porte de Gouesnou à la mairie de St-Marc en passant par le quartier l’Eau Blanche, le stade de Pen Helen, le groupe scolaire de l’Estran (Charles de Foucauld). Un axe non desservi directement par les transports en communs, et en partie un axe cyclable jalonné.
+La partie Brestoise de la :line-link{line=6} reliera le terminus du tram Porte de Gouesnou à la mairie de St-Marc en passant par le quartier l’Eau Blanche, le stade de Pen Helen, le groupe scolaire de l’Estran (Charles de Foucauld). Un axe non desservi directement par les transports en commun, et en partie un axe cyclable jalonné.
 
 Elle y croisera la la :line-link{line=3}, la :line-link{line=4} et :line-link{line=10}.
 
-Certaines portions sont déjà aménagés et de qualité, comme par exemple l'entrée de Kergaradec. D'autres sont plus problématiques, comme l'aménagement bidirectionnel rue Gustave Zédé où plusieurs accidents on étés recensés (le dernier en septembre 2023)
+Certaines portions sont déjà aménagées et de qualité, comme par exemple l'entrée de Kergaradec. D'autres sont plus problématiques, comme l'aménagement bidirectionnel rue Gustave Zédé où plusieurs accidents on étés recensés (le dernier cet été 2024)
 
 ::content-image
 ---
@@ -66,6 +66,6 @@ credit: Google Street View
 ---
 ::
 
-La rue du Bot à récemment vu arriver une piste cyclable dans le sens montant. Il n'y a plus qu'a en installer une dans le sens descendant pour en faire une rue sure pour les cyclistes.
+La rue du Bot à récemment vu arriver une piste cyclable dans le sens montant. Il n'y a plus qu'a en installer une dans le sens descendant pour en faire une rue sûre pour les cyclistes.
 
 Arrivé au bourg de Saint-Marc il serait envisageable de la prolonger par la rampe du Vieux Bourg jusqu'à la :line-link{line=1} pour une continuité jusqu'au port.

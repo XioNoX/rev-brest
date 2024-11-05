@@ -50,7 +50,7 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-            <i>Kinnig ar gevredigezh <strong>{{ assoName }}</strong> evit ijinañ ur rouedad marc’h-houarn <strong>sur</strong> hag <strong>efedus</strong> e Meurger Brest.</i>
+            <i>Kinnig ar gevredigezh <strong>{{ assoName }}</strong> evit ijinañ ur rouedad war varc’h-houarn <strong>sur</strong> hag <strong>efedus</strong> evit Meurger Brest.</i>
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"

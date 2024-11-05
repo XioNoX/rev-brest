@@ -44,7 +44,7 @@ Bravo à Brest Métropole pour ce premier rond point à la Hollandaise.
 
 
 ### Route du vieux Saint-Marc
-Une des meilleures pistes cyclables de Brest. Seul la sortie au niveau du rond point des Grèbes est a sécuriser comme le montre les (au moins) 2 accidents qui ont impliqués des cyclistes le 4 octobre 2018 et 4 décembre 2023.
+Une des meilleures pistes cyclables de Brest. Seul la sortie au niveau du rond-point des Grèbes est a sécuriser comme le montre les (au moins) 2 accidents qui ont impliqué des cyclistes le 4 octobre 2018 et 4 décembre 2023.
 
 
 ### Rues Kerjegu, Colas et Bérest

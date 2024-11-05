@@ -51,7 +51,7 @@ Intersection avec la :line-link{line=3 anchor=carrefour-des-quatre-vents}.
 ### Rue de Penfeld
 
 ::banner{type="unsecured"}
-Actuellement extremement dangereuse pour les cyclistes.
+Actuellement extrêmement dangereuse pour les cyclistes.
 ::
 Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
 ::banner{type="info"}
@@ -64,12 +64,12 @@ Profiter des aménagements en faveur des Transports Collectifs pour réaliser de
 La piste cyclable existant est déjà de bonne qualité, il ne manque pas grand chose pour qu'elle soit parfaite.
 Quelques suggestions :
 - Ajouter un dispositif de retenue (barrière) entre la route et la piste
-- Tailler réguilerement la végétation débordante
+- Tailler régulièrement la végétation débordante
 - Élargir la piste
 
 ### Rue des Écoles
 
-Une suggestion à bas cout serait de changer le plan de circulation pour éliminer le trafic de transit.
+Une suggestion à bas coût serait de changer le plan de circulation pour éliminer le trafic de transit.
 
 ::banner{type="info"}
 D'autant plus important à proximité d'une école car cela réduirait le bruit, la pollution et le risque d'accident.
@@ -84,14 +84,14 @@ Actuellement dangereux par manque d'aménagement.
 ::
 
 ### Route et Chemin de la Tour
-Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
+Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 
 Voie verte Guilers-St Renan : amélioration du revêtement, objectif même qualité que sur St Renan
 ::
 
-Le manque de revetement pratiquable pas tout type de vélo est en effet le premier frein à son utilisation. De plus il faudrait :
+Le manque de revêtement praticable pas tout type de vélo est en effet le premier frein à son utilisation. De plus il faudrait :
 - L'élargir
 - Rajouter de la signalétique
 - Sécuriser les intersections

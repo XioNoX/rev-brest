@@ -3,7 +3,7 @@ name: BREV 5
 line: 5
 from: Recouvrance
 to: Bourg-Blanc
-description: La BREV 5 permettra de relier Bourg-Blanc à Gouesnou (20 minutes) et Gouesnou à Recouvrance (30 minutes), en passant par la zone de Kergaradec et le terminus du Tram (porte de Gouesnou), la prison, le quartier de Coataudon, Rue Montaigne, le pont de l’Harteloire et les Capucins. Une partie de cette BREV est commune avec la BREV 6 (Saint-Marc - Plabennec), de Gouesnou à Kergaradec (D788).
+description: La BREV 5 permettra de relier Bourg-Blanc à Gouesnou (20 minutes) et Gouesnou à Recouvrance (30 minutes), en passant par la zone de Kergaradec et le terminus du Tram (porte de Gouesnou), la maison d’arrêt, le quartier de Coataudon, Rue Montaigne, le pont de l’Harteloire et les Capucins. Une partie de cette BREV est commune avec la BREV 6 (Saint-Marc - Plabennec), de Gouesnou à Kergaradec (D788).
 
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
@@ -46,8 +46,7 @@ imageUrl: ../medias/5-breignoucoz.png
 ---
 ::
 
-
-Cependant, un abri bus (ligne 20, arrêt Breignou Coz) est installé sur la voie cyclable, en plein milieu…
+Cependant, un Abribus (ligne 20, arrêt Breignou Coz) est installé sur la voie cyclable, en plein milieu, ce qui est problématique.
 
 
 #### Entrée dans Gouesnou
@@ -100,7 +99,7 @@ credit: StreetMix
 ---
 ::
 
-Entre le rond-point Charles de Gaulle et le rond-point de Kerlois, la partie Ouest disponible pour un aménagement cyclable est un peu étroite, mais c’est tout de même envisageable. Du côté Est, il y a déjà un chemin (allée verte) parallèle à la D788 qui pourra être prolongé et réaménagé pour relier les deux ronds-points.
+Entre le rond-point Charles de Gaulle et le rond-point de Kerlois, la partie ouest disponible pour un aménagement cyclable est un peu étroite, mais c’est tout de même envisageable. Du côté Est, il y a déjà un chemin (allée verte) parallèle à la D788 qui pourra être prolongé et réaménagé pour relier les deux ronds-points.
 
 Entre le rond-point de Kerlois et le terminus du Tram à la Porte de Gouesnou, le bord de la chaussée est assez large (et parfois déjà un peu aménagé) pour pouvoir faire passer une voie cyclable des deux côtés.
 
@@ -122,7 +121,7 @@ Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vél
 
 9 - Rue Saint Exupéry - Rue de Maissin - Rue Galliéni
 
-Aménagements prévus dans le cadre de l’opération NPNRU Recouvrance. Programmation 2020-2027. Les tranches opérationnelles à préciser
+Aménagements prévus dans le cadre de l’opération NPNRU Recouvrance. Programmation 2020-2027. Les tranches opérationnelles \[sont\] à préciser
 ::
 
 #### Pont de l’Harteloire, rue Lamotte Picquet

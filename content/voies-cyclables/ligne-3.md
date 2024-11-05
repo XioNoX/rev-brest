@@ -9,8 +9,8 @@ cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 
 ## Tronçons, d'est en ouest
 
-### Guipavas⇆Le Relecq'
-Au départ du Moulin Blanc (jonction :line-link{line=1} et :line-link{line=7}), elle remonterait vers le Relecq-Kerhuon en passant à proximité du campus Arkea puis cheminerait jusqu’au Froutven. Ce tronçon permettrait aux habitant.e.s de Guipavas et du Relecq' de relier des zones d’activité majeures comme Kergaradec, Arkea, le Froutven ou encore le port de commerce en toute sécurité.
+### Guipavas⇆Le Relecq
+Au départ du Moulin Blanc (jonction :line-link{line=1} et :line-link{line=7}), elle remonterait vers le Relecq-Kerhuon en passant à proximité du campus Arkea puis cheminerait jusqu’au Froutven. Ce tronçon permettrait aux habitant.e.s de Guipavas et du Relecq de relier des zones d’activité majeures comme Kergaradec, Arkea, le Froutven ou encore le port de commerce en toute sécurité.
 Alternative à la route de Lavallot, il serait pertinent de créer un cheminement doux le long de la N265.
 
 À noter qu'il n'y a actuellement aucune liaison bus existante.
@@ -27,7 +27,7 @@ credit: Page Facebook Cyclistes à Brest
 ::banner{type="unsecured"}
 Attention à la zone de Kerlaurent, présence d’une bande cyclable mais qui fait l’objet de stationnement gênant répétant en raison de la présence de l’IFAC.
 ::
-Le passage du REV dans cette zone serait une opportunité pour de nombreux étudiants.
+Le passage du REV dans cette zone serait une opportunité pour de nombreux.ses étudiant.es.
 
 ::banner{type="info"}
 **Schèma Directeur Vélo**
@@ -48,7 +48,7 @@ Entre le Froutven et Penn Ar C'hleuz (en partie le long du :transport-link{type=
 ::content-image
 ---
 imageUrl: ../medias/3-europe.png
-caption: Example de passage de piste cyclable le long du boulevard de l'Europe
+caption: Exemple de passage de piste cyclable le long du boulevard de l'Europe
 credit: Google
 ---
 ::
@@ -57,7 +57,7 @@ credit: Google
 Gros point noir est la traversée du rond-point de Penn Ar C'hleuz. Le sécuriser ou proposer un itinéraire parallèle (comme Lambézellec) est primordial.
 ::
 
-Sur la partie ouest du boulevard de l'Europe, le manque d'aménagement cyclable est cinglant. Actuellement le cheminement cyclable fait des détours par Lambézellec. Dédier une voie de circulation pour les cycles est indispensable pour pouvoir effectuer cette liaison non deserve par les transports en communs.
+Sur la partie ouest du boulevard de l'Europe, le manque d'aménagement cyclable est criant. Actuellement le cheminement cyclable fait des détours par Lambézellec. Dédier une voie de circulation pour les cycles est indispensable pour pouvoir effectuer cette liaison non desservie par les transports en commun.
 
 ### Pont de la Villeneuve
 
@@ -86,5 +86,5 @@ le prolongement par la D205 (rocade ouest), déjà prévu par la collectivité, 
 ::banner{type="info"}
 **Lauréat budget participatif 2024** - [Promenade de la vallée de maison Blanche](https://jeparticipe.brest.fr/project/budget-participatif-saison-4/collect/proposez-vos-projets/proposals/promenade-de-la-vallee-de-maison-blanche)
 ::
-Arriver si près du but, on aurait tort de s'en priver ! La rue de la Maison Blanche n'est utilisée que par quelques riverains, cheminant au milieu des arbres, elle est aménageable à peu de frais. Elle permettrait de clôturer la BREV du Froutven par cette carte postale brestoise qu’est la plage de la Maison Blanche.
-On en oublierait la porte de l'arsenal d'une utilité trop terre à terre et pour si peu de brestois. 
+Arrivé si près du but, on aurait tort de s'en priver ! La rue de la Maison Blanche n'est utilisée que par quelques riverains, cheminant au milieu des arbres, elle est aménageable à peu de frais. Elle permettrait de clôturer la BREV du Froutven par cette carte postale brestoise qu’est la plage de la Maison Blanche.
+On en oublierait la porte de l'arsenal d'une utilité trop terre à terre et pour si peu de Brestois. 

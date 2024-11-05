@@ -20,7 +20,7 @@ Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vél
 Requalification urbaine, intégrant un aménagement cyclable bidirectionnel
 ::
 
-Au départ de Plouzané, l’aménagement de la D789 prévu au schéma directeur vélo permettra de rejoindre Guilers puis Saint-Renan via la :line-link{line=2}. L’étude de ce tronçon était prévue dans le SDV (Schéma Directeur Vélo) d’ici 2025 afin de pouvoir être programmés à partir de 2026.
+Au départ de Plouzané, l’aménagement de la D789 prévu au schéma directeur vélo permettra de rejoindre Guilers puis Saint-Renan via la :line-link{line=2}. L’étude de ce tronçon était prévue dans le SDV (Schéma Directeur Vélo) d’ici 2025 afin de pouvoir être programmé à partir de 2026.
 Un effort est à prévoir dans l’aménagement de la rue de Brest entre le carrefour de la route du Dellec et l’école Anita Conti.
 
 
@@ -28,7 +28,7 @@ Un effort est à prévoir dans l’aménagement de la rue de Brest entre le carr
 
 ### Tronçon de Guilers vers Bohars et Milizac-Guipronvel
 Actuellement les trajets entre ces deux communes limitrophes sont compliqués par le manque d’infrastructures et de transports en commun.
-L’aménagement de la rue du Roudous est idéal pour rejoindre la :line-link{line=8} sur la D3 « Route de Milizac ». (Aménagent prévu au plan vélo du département).
+L’aménagement de la rue du Roudous est idéal pour rejoindre la :line-link{line=8} sur la D3 « Route de Milizac ». (Aménagement prévu au plan vélo du département).
 L’allée des Noisetiers nous permet d’atteindre le bourg de Bohars sans effort. Nous cheminons sur le parcours de l’ancien chemin de fer du train patate jusqu’à la petite gare. 
 Aucun aménagement (ou étude) évoqué dans le Schéma Directeur Vélo pour la liaison Guilers - Bohars - Gouesnou.
 Sur ces portions, les compétences métropolitaines et départementales se mélangent.
@@ -43,7 +43,7 @@ credit: Google
 ---
 ::
 
-Pour les axes non structurant il serait également pertinent d'en faire des voies vertes ou axes réservés aux résidents pour y réduire le traffic de transit.
+Pour les axes non structurants il serait également pertinent d'en faire des voies vertes ou axes réservés aux résidents pour y réduire le traffic de transit.
 
 ### Tronçon de Bohars vers Gouesnou
 En continuant sur le chemin de la ligne jusqu’à Gouesnou, nous connectons avec  les :line-link{line=5} et :line-link{line=6} qui permettent de continuer jusqu’à Bourg-Blanc ou Plabennec.
@@ -56,7 +56,7 @@ L’intersection avec la D26 devra toutefois être améliorée.
 
 Actuellement les trajets à vélo entre ces trois communes limitrophes sont compliqués par le manque d’infrastructures. Elles partagent pourtant plusieurs zones d’activités comme Kergaradec, l’aéroport, Prat Pip, le siège Crédit Mutuel Arkéa.
 La création de la :line-link{line=7} apporte une solution à de nombreux déplacements domicile-travail sur ce secteur.
-Nous proposons donc de sécuriser la D67 pour la mettre au niveau d’un réseau express vélo. Mais il est également possible que la Métropole ai d'autres idées pour assurer cette liaison.
+Nous proposons donc de sécuriser la D67 pour la mettre au niveau d’un réseau express vélo. Mais il est également possible que la Métropole ait d'autres idées pour assurer cette liaison.
 
 ::banner{type="info"}
 Le Schéma Directeur Vélo évoque un Itinéraire Guipavas - Prat Pip - Aéroport - St-Thudon - Gouesnou
@@ -75,5 +75,5 @@ Aux vues des vitesses pratiquées, un aménagement cyclable séparé de la voiri
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCyclistesaBrest%2Fposts%2Fpfbid02o9RmbkW916Ds4PpKRdUzku4MtL8KYRU78KDYbtZf53XwRwypR91TaoL51NESCPcul&width=552&show_text=true&appId=112456472194806&height=418" width="552" height="418" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ### La suite ?
-Vers où celle ligne devrait elle continuer ? On attend les réponses des adeptes du vélo sous-marin 😉
+Vers où celle ligne devrait-elle continuer ? On attend les réponses des adeptes du vélo sous-marin 😉
 [https://weelz.ouest-france.fr/deux-bretons-se-lancent-dans-une-traversee-sous-marine-a-velo/](https://weelz.ouest-france.fr/deux-bretons-se-lancent-dans-une-traversee-sous-marine-a-velo/)

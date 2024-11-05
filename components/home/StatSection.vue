@@ -7,8 +7,8 @@
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
           <strong>B</strong>rest <strong>R</strong>éseau <strong>E</strong>xpress <strong>V</strong>élo, et bref, rapide, quoi.
-          <br>Concrètement, une {{ getRevName('singular') }} est une voie cyclable de qualité qui réponds à quelques critéres simples : sécurisé, directe, bien indiquée et confortable.
-          L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers Brestois aux communes de la périphérie de la métropole.
+          <br>Concrètement, une {{ getRevName('singular') }} est une voie cyclable de qualité qui répond à quelques critère simples : sécurisée, directe, bien indiquée et confortable.
+          L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers brestois aux communes de la périphérie de la métropole.
         </p>
       </div>
     </div>

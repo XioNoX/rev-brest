@@ -7,11 +7,11 @@ description: La BREV 4, BREV des grands boulevards, est la liaison express "nord
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
-### Troncons (du sud au nord)
+### Tronçons (du sud au nord)
 
 #### Rue du Chateau
 
-Actuellement sans aucun aménagements cyclables, aménager une piste cyclable sécurisé sur cette rue aurait de nombreux avantages aussi bien pour les résidents que pour les personnes transitant par le quartier ou encore les personnes ayant une activité dans le quartier (commerçants, étudiants des beaux arts, salariés)
+Actuellement sans aucun aménagement cyclable, aménager une piste cyclable sécurisée sur cette rue aurait de nombreux avantages aussi bien pour les résidents que pour les personnes transitant par le quartier ou encore les personnes ayant une activité dans le quartier (commerçant.es, étudiant.es des beaux arts, salarié.es).
 
 * Elle offrirait une alternative sécurisante pour les cyclistes qui ont l'habitude de passer par la rue de Siam, loins des conflits avec le tram ou les nombreux piétons.
 * Séparer les vélos des voitures dans cette rue en pente permettait de fluidifier la circulation motorisée.
@@ -25,13 +25,13 @@ Actuellement sans aucun aménagements cyclables, aménager une piste cyclable s�
 Le projet concernant la [**création d'une piste cyclable dans le sens montant**](https://jeparticipe.brest.fr/project/budget-participatif-saison-4/collect/proposez-vos-projets/proposals/creation-dune-piste-cyclable-rue-du-chateau
 ) a été refusé par les élus : "la mise en œuvre de votre projet nécessite la suppression de 53 places de stationnement dans une zone à forte densité. Le critère « qu’il soit acceptable socialement » n’est donc pas respecté."
 
-**Nous critiquons cette décisions**, favoriser les mobilités douces est bien plus socialement acceptable que de favoriser l'automobile, d'autant plus en hyper-centre.
+**Nous critiquons cette décision**, favoriser les mobilités douces est bien plus socialement acceptable que de favoriser l'automobile, d'autant plus en hyper-centre.
 ::
 
 #### Rue Yves Collet
 Actuellement : Bande montante unidirectionnelle jusqu’à l’église St-Michel
 
-Une piste bi-directionnelle pourrait être imaginé en enlevant une bande de stationnement.
+Une piste bi-directionnelle pourrait être imaginée en enlevant une bande de stationnement.
 Ce tronçon permet des liaisons directes entre les quartiers St-Martin et St-Michel, et dessert notamment le secteur du bas de Jaurès (centre commerciaux de l’espace Jaurès et Coat Ar Gueven, nombreux commerces, hôpital Morvan,...). C’est une excellente alternative à la remontée de la voie du tram par les cyclistes, qui est interdite (mais pourtant largement empruntée par les cyclistes qui s’y sentent plus en sécurité que sur la route) et dangereuse à cause des rails (nombreuses chutes à vélo).
 
 #### Rue Sébastopol
@@ -50,7 +50,7 @@ De la place de Strasbourg à Guipavas, elle offrirait une alternative au :transp
 
 Rue assez large (avec plusieurs îlots centraux avec de la végétation) mais en l’état totalement dépourvue d'aménagement cyclable.
 
-Or c’est pourtant l’axe le plus rapide pour rejoindre la ZC du Froutven depuis le centre-ville. Des travaux sont prévus dans le schéma directeur vélo (aménagements cyclable dans les deux sens). Un supermarché LIDL borde cet itinéraire et est très prisé par les habitants qui viennent y faire leurs courses. Enfin à son extrémité, ce tronçon dessert zone la commerciale du Froutven, dont de grandes enseignes telles que IKEA / Leroy Merlin / Decathlon / Boulanger ainsi que de nombreux restaurants.
+Or c’est pourtant l’axe le plus rapide pour rejoindre la ZC du Froutven depuis le centre-ville. Des travaux sont prévus dans le schéma directeur vélo (aménagements cyclable dans les deux sens). Un supermarché LIDL borde cet itinéraire et est très prisé par les habitants qui viennent y faire leurs courses. Enfin à son extrémité, ce tronçon dessert la zone commerciale du Froutven, dont de grandes enseignes telles que IKEA / Leroy Merlin / Decathlon / Boulanger ainsi que de nombreux restaurants.
 
 
 Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
@@ -62,8 +62,9 @@ Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vél
 Profiter des aménagements en faveur des TC pour réaliser des aménagements cyclables dans les deux sens sur le Bd de Coataudon, la rue du Pont Neuf et dans le sens montant rue de Paris
 ::
 
+::banner{type="unsecured"}
 Pour rappel, un aménagement uniquement dans le sens montant n'est pas suffisant pour assurer la sécurité des cyclistes les plus vulnérables.
-
+::
 
 #### Boulevard Michel Briand
 Immense boulevard 2x2 voies avec bandes cyclables dans chaque sens. L’utilité des 2x2 voies se pose, car le trafic y est rarement dense, et les limitations de vitesse supérieures à celle de la ville (70km/h). Ce tronçon permet de desservir les nombreuses entreprises du secteur de Kergaradec (dont l’usine KOHLER) ou d’aller en direction du Relecq Keruhon (présence notable de l’entreprise ARKEA).
