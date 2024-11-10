@@ -26,15 +26,15 @@ Ainsi que plus d'une dizaine d'écoles primaires.
 
 ### Avenue de l’École Navale - rue Émile Rousse
 
-Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
+Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
 ::banner{type="info"}
-**Schèma Directeur Vélo**
-Aménagement des chainons manquants, amélioration de l’existant, réduction des vitesses.
+**Schéma Directeur Vélo**
+Aménagement des chaînons manquants, amélioration de l’existant, réduction des vitesses.
 ::
 
 ### Rue Matthieu Gallou, Vibert, Kergoat
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 Aménagement cyclable sens montant - liaison entre Université/Bellevue et quartiers de la Cavale Blanche et Recouvrance via la rue de Kervallon et les Capucins, jalonner les itinéraires
 ::
 
@@ -44,7 +44,7 @@ Sens montant uniquement n'est pas suffisant
 ### Rue De Kermenguy, rue Drogou
 Intégre en partie ce point du SDV
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 6 - Quartiers Kerbernier-Kerédern
 
 Liaison cyclable sécurisée à travers les quartiers entre l’Av. Le Gorgeu et le Bd de l’Europe (en partie dans le cadre de l’NPNRU Bellevue)
