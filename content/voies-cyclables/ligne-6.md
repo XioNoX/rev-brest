@@ -3,7 +3,7 @@ name: BREV 6
 line: 6
 from: Saint-Marc
 to: Plabennec
-description: Beaucoup de Plabennecois viennent travailler quotidiennement à Brest, certains d'entre eux prennent le car (lignes 20, 21 et 22), beaucoup vont en voiture, et trop peu prennent le vélo. Pourtant le terminus du Tram à la Porte de Gouesnou n'est qu'à une dizaine de kilomètre.
+description: Beaucoup de Plabennecois viennent travailler quotidiennement à Brest, certains d'entre eux prennent le car (lignes 20, 21 et 22), beaucoup vont en voiture, et trop peu prennent le vélo. Pourtant le terminus du Tram à la Porte de Gouesnou n'est qu'à une dizaine de kilomètres.
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
@@ -54,9 +54,9 @@ Cette partie est commune à la :line-link{line=5}, elle y est détaillée [ici](
 
 La partie Brestoise de la :line-link{line=6} reliera le terminus du tram Porte de Gouesnou à la mairie de St-Marc en passant par le quartier l’Eau Blanche, le stade de Pen Helen, le groupe scolaire de l’Estran (Charles de Foucauld). Un axe non desservi directement par les transports en commun, et en partie un axe cyclable jalonné.
 
-Elle y croisera la la :line-link{line=3}, la :line-link{line=4} et :line-link{line=10}.
+Elle y croisera la :line-link{line=3}, la :line-link{line=4} et :line-link{line=10}.
 
-Certaines portions sont déjà aménagées et de qualité, comme par exemple l'entrée de Kergaradec. D'autres sont plus problématiques, comme l'aménagement bidirectionnel rue Gustave Zédé où plusieurs accidents on étés recensés (le dernier cet été 2024)
+Certaines portions sont déjà aménagées et de qualité, comme par exemple l'entrée de Kergaradec. D'autres sont plus problématiques, comme l'aménagement bidirectionnel rue Gustave Zédé où plusieurs accidents ont été recensés (le dernier cet été 2024)
 
 ::content-image
 ---
@@ -66,6 +66,6 @@ credit: Google Street View
 ---
 ::
 
-La rue du Bot à récemment vu arriver une piste cyclable dans le sens montant. Il n'y a plus qu'a en installer une dans le sens descendant pour en faire une rue sûre pour les cyclistes.
+La rue du Bot a récemment vu arriver une piste cyclable dans le sens montant. Il n'y a plus qu'à en installer une dans le sens descendant pour en faire une rue sûre pour les cyclistes.
 
 Arrivé au bourg de Saint-Marc il serait envisageable de la prolonger par la rampe du Vieux Bourg jusqu'à la :line-link{line=1} pour une continuité jusqu'au port.
