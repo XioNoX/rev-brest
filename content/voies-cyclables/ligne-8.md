@@ -31,7 +31,7 @@ credit: Brest Métropole
 
 ### Boulevard de l'Europe
 
-C'est ici que cette BREV quiterait les aménagements du BHNS pour rejoindre la [véloroute des abers](https://www.af3v.org/les-voies-vertes/voies/492-veloroute-des-abers-de-l-aber-wrac-h-a-brest/) par la viaduc de la Brasserie.
+C'est ici que cette BREV quitterait les aménagements du BHNS pour rejoindre la [véloroute des abers](https://www.af3v.org/les-voies-vertes/voies/492-veloroute-des-abers-de-l-aber-wrac-h-a-brest/) par la viaduc de la Brasserie.
 
 Ici, correspondance avec la :line-link{line=3}, pour par exemple se rendre au Froutven à partir de Milizac.
 
