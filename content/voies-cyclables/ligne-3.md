@@ -9,7 +9,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 
 ## Tronçons, d'est en ouest
 
-### Guipavas⇆Le Relecq
+### Guipavas ⇆ Le Relecq
 Au départ du Moulin Blanc (jonction :line-link{line=1} et :line-link{line=7}), elle remonterait vers le Relecq-Kerhuon en passant à proximité du campus Arkea puis cheminerait jusqu’au Froutven. Ce tronçon permettrait aux habitant.e.s de Guipavas et du Relecq de relier des zones d’activité majeures comme Kergaradec, Arkea, le Froutven ou encore le port de commerce en toute sécurité.
 Alternative à la route de Lavallot, il serait pertinent de créer un cheminement doux le long de la N265.
 
@@ -30,7 +30,7 @@ Attention à la zone de Kerlaurent, présence d’une bande cyclable mais qui fa
 Le passage du REV dans cette zone serait une opportunité pour de nombreux.ses étudiant.es.
 
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 
 6 - Futur stade du Froutven
 
@@ -54,7 +54,7 @@ credit: Google
 ::
 
 ::banner{type="unsecured"}
-Gros point noir est la traversée du rond-point de Penn Ar C'hleuz. Le sécuriser ou proposer un itinéraire parallèle (comme Lambézellec) est primordial.
+Le gros point noir est la traversée du rond-point de Penn Ar C'hleuz. Le sécuriser ou proposer un itinéraire parallèle (comme Lambézellec) est primordial.
 ::
 
 Sur la partie ouest du boulevard de l'Europe, le manque d'aménagement cyclable est criant. Actuellement le cheminement cyclable fait des détours par Lambézellec. Dédier une voie de circulation pour les cycles est indispensable pour pouvoir effectuer cette liaison non desservie par les transports en commun.
@@ -79,7 +79,7 @@ Article du télégramme [À Brest, 2 km de piste cyclable désormais ouverts à 
 ::banner{type="unsecured"}
 Actuellement extrêmement dangereuse pour les cyclistes.
 ::
-le prolongement par la D205 (rocade ouest), déjà prévu par la collectivité, permettra un accès vers Thalès comme vers le Technopole par la :line-link{line=9} pour de nombreux Brestois et Brestoises.
+le prolongement par la D205 (rocade ouest), déjà prévu par la collectivité, permettra un accès vers Thalès comme vers le Technopôle par la :line-link{line=9} pour de nombreux Brestois et Brestoises.
 
 
 ### Rue de la Maison Blanche
