@@ -3,7 +3,7 @@ name: BREV 2
 line: 2
 from: Plouarzel
 to: Gare de Brest
-description: La BREV 2 permettrait de relier Saint-Renan à La gare de Brest par Guilers et le Parc Expo en moins de 30min. Elle suivrait une grande partie du cheminement existant et bénéficierait des nouveaux aménagements cyclables le long de la nouvelle ligne de tramway. Après Bellevue, la différence notable est qu'elle continuerait le long de la rue de Penfeld plutot que de faire un détour par les rives de Penfeld.
+description: La BREV 2 permettrait de relier Saint-Renan à La gare de Brest par Guilers et le Parc Expo en moins de 30min. Elle suivrait une grande partie du cheminement existant et bénéficierait des nouveaux aménagements cyclables le long de la nouvelle ligne de tramway. Après Bellevue, la différence notable est qu'elle continuerait le long de la rue de Penfeld plutôt que de faire un détour par les rives de Penfeld.
 cover: https://www.monreseaugrandit.fr/sites/default/files/inline-images/BREST_pers%208%20BD_0.jpg
 ---
 
@@ -43,7 +43,7 @@ streetView: 48.399984,-4.4977291,3a,75y,128.09h,97.58t
 
 ### Avenue Le Gorgeu
 
-Plutot que de faire une détour en suivant la ligne de tramway, la :line-link{line=2} continuerait le long de l'Avenue le Gorgeu où la place ne manque pas.
+Plutôt que de faire un détour en suivant la ligne de tramway, la :line-link{line=2} continuerait le long de l'Avenue le Gorgeu où la place ne manque pas.
 
 ### Carrefour des Quatre Vents
 Intersection avec la :line-link{line=3 anchor=carrefour-des-quatre-vents}.
@@ -53,9 +53,9 @@ Intersection avec la :line-link{line=3 anchor=carrefour-des-quatre-vents}.
 ::banner{type="unsecured"}
 Actuellement extrêmement dangereuse pour les cyclistes.
 ::
-Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
+Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 
 Profiter des aménagements en faveur des Transports Collectifs pour réaliser des aménagements cyclables dans les deux sens depuis le rond-point du Guerven (Parc des expositions) jusqu’à l’avenue de Provence (connexion avec le futur tramway)
 ::
@@ -75,7 +75,7 @@ Une suggestion à bas coût serait de changer le plan de circulation pour élimi
 D'autant plus important à proximité d'une école car cela réduirait le bruit, la pollution et le risque d'accident.
 ::
 
-À Guilers elle rencontrera la :line-link{line=7} pour que les habitants de Saint-Renan puissent par exemple se rendre au Technopole à vélo en sécurité (moyennant un petit détour).
+À Guilers elle rencontrera la :line-link{line=7} pour que les habitants de Saint-Renan puissent par exemple se rendre au Technopôle à vélo en sécurité (moyennant un petit détour).
 
 ### Rond-point de Kerebars
 
@@ -100,9 +100,9 @@ Le manque de revêtement praticable pas tout type de vélo est en effet le premi
 ### Allée du chemin de Fer
 Marqué comme "terminé" car il n'y a rien de significatif à changer.
 
-Voilà, vous êtes arivé.e.s à Saint Renan. 👍
+Voilà, vous êtes arrivé.e.s à Saint Renan. 👍
 
-### traversée de Saint Renan
+### Traversée de Saint Renan
 
 *À faire*
 
