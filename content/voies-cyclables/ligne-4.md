@@ -7,6 +7,13 @@ description: La BREV 4, BREV des grands boulevards, est la liaison express "nord
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
+::content-image
+---
+imageUrl: ../medias/4-stations.png
+caption: Plan des "stations" de la ligne 4
+---
+::
+
 ### Tronçons (du sud au nord)
 
 #### Rue du Chateau

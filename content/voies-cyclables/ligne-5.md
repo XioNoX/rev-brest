@@ -111,7 +111,30 @@ La :line-link{line=5} empruntera ensuite le boulevard Montaigne à partir du Dou
 
 Le rond-point de la place Albert 1er sera à aménager pour permettre le passage des voitures, du tram et des vélos. C’est le croisement de la :line-link{line=5} et de la :line-link{line=2}.
 
-La :line-link{line=5} desservira le Lycée Ste-Anne en continuant sur la rue Lamotte-Picquet, puis elle empruntera le pont de l’Harteloire et passera non loin des Ateliers des Capucins avant de rejoindre Recouvrance par la rue de Maissin.
+La :line-link{line=5} desservira le Lycée Ste-Anne en continuant sur la rue Lamotte-Picquet, puis elle empruntera le pont de l’Harteloire avec la :line-link{line=9} et passera non loin des Ateliers des Capucins avant de rejoindre Recouvrance par la rue de Maissin.
+
+
+#### Pont de l’Harteloire, rue Lamotte Picquet
+Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
+::banner{type="info"}
+**Schéma Directeur Vélo**
+
+Rue Galliéni - Pont de l’Harteloire - rue Tourville - rue Lamotte Picquet : aménagement cyclable bidirectionnel
+::
+
+::banner{type="unsecured"}
+Les aménagements bidirectionnels sont déconseillés sur les rues avec beaucoup d'intersections. Voir par exemple les accidents rue Gustave Zédé.
+::
+
+Une piste bidirectionnelle coté nord du pont serait pertinente pour continuer sur la piste Rue Dupuy De Lôme si les intersections de part et d'autres sont aménagées en fonction. L'important reste que les cyclistes soient séparés de la circulation automobile par plus que des bandes rugueuses.
+
+::content-image
+---
+imageUrl: ../medias/9-pont-harteloire.png
+caption: Suggestion d'aménagement du pont de l'Harteloire
+streetView: 48.3926995,-4.5004514,3a,75y,259.04h,90.95t
+---
+::
 
 
 #### Rue de Maissin
@@ -123,12 +146,3 @@ Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vél
 
 Aménagements prévus dans le cadre de l’opération NPNRU Recouvrance. Programmation 2020-2027. Les tranches opérationnelles \[sont\] à préciser
 ::
-
-#### Pont de l’Harteloire, rue Lamotte Picquet
-Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
-::banner{type="info"}
-**Schéma Directeur Vélo**
-
-Rue Galliéni - Pont de l’Harteloire - rue Tourville - rue Lamotte Picquet : aménagement cyclable bidirectionnel
-::
-

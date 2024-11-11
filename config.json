@@ -82,6 +82,12 @@
     },
     {
       "type": "bus",
+      "line": "2b",
+      "color": "#FFCB04",
+      "link": "https://www.bibus.fr/se-deplacer/horaires-et-plans-des-lignes/lignes/ligne-bus-2b"
+    },
+    {
+      "type": "bus",
       "line": "12",
       "color": "#3789A5",
       "link": "https://www.bibus.fr/se-deplacer/horaires-et-plans-des-lignes/lignes/ligne-bus-12"

@@ -4,10 +4,42 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Entrée de Thalès",
+        "line": 9,
+        "link": "/brev-9"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.552889233073785,
+          48.376492486647976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Carrefour Général Koenig",
+        "line": 9,
+        "link": "/brev-9"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.545010274877484,
+          48.37805716138422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "perspective",
         "name": "Rue de l'Harteloire",
         "line": 9,
-        "imgUrl": "https://i.imgur.com/VadOVMm.png"
+        "imgUrl": "../medias/9-rue-harteloire.png"
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +52,7 @@
         "type": "danger",
         "name": "Carrefour de l'Harteloire",
         "line": 9,
-        "link": "/brev-29#???"
+        "link": "/brev-9"
       },
       "geometry": {
         "coordinates": [
@@ -38,7 +70,7 @@
       "name": "Clémenceau (Gare-Liberté)",
       "status": "wip",
       "type": "bilaterale",
-      "link": "/brev-9#gare-de-brest-à-avenue-le-gorgeu"
+      "link": "/brev-9#boulevard-clémenceau"
     },
     "geometry": {
       "coordinates": [
@@ -74,7 +106,7 @@
         "name": "Tram (Clemenceau)",
         "status": "wip",
         "type": "bilaterale",
-        "link": "/brev-2#gare-de-brest-à-avenue-le-gorgeu"
+        "link": "/brev-9#boulevard-clémenceau"
       },
       "geometry": {
         "coordinates": [
@@ -96,8 +128,8 @@
         "line": 9,
         "name": "Rue de l'Harteloire",
         "status": "unknown",
-        "type": "inconnu",
-        "link": "/brev-9#???"
+        "type": "bilaterale",
+        "link": "/brev-9#rue-de-lharteloire"
       },
       "geometry": {
         "coordinates": [
@@ -121,7 +153,7 @@
         "name": "Pont de l'Harteloire",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/brev-9#???"
+        "link": "/brev-9#pont-de-lharteloire"
       },
       "geometry": {
         "coordinates": [
@@ -144,7 +176,7 @@
         "name": "Rue Dupuy De Lôme",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-9#???"
+        "link": "/brev-9#queliverzan-à-fort-montbarey"
       },
       "geometry": {
         "coordinates": [
@@ -204,7 +236,7 @@
         "name": "Bd. de Plymouth, Rue du 19 mars 1962",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-9#???"
+        "link": "/brev-9#queliverzan-à-fort-montbarey"
       },
       "geometry": {
         "coordinates": [
@@ -275,7 +307,7 @@
         "name": "Boulevard de Plymouth",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-9#???"
+        "link": "/brev-9#queliverzan-à-fort-montbarey"
       },
       "geometry": {
         "coordinates": [
@@ -389,8 +421,8 @@
         "line": 9,
         "name": "Avenue de la 1re D.F.L.",
         "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/brev-9#???"
+        "type": "inconnu",
+        "link": "/brev-9#avenue-de-la-1ere-dfl"
       },
       "geometry": {
         "coordinates": [
@@ -461,7 +493,7 @@
         "name": "D789 (St Anne)",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-9#???"
+        "link": "/brev-9#d789"
       },
       "geometry": {
         "coordinates": [
@@ -509,7 +541,7 @@
         "name": "Route du Dellec (nord)",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-9#???"
+        "link": "/brev-9#technopole-au-bourg-de-plouzané"
       },
       "geometry": {
         "coordinates": [
@@ -556,7 +588,7 @@
         "name": "Avenue du Général de Gaulle",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-9#???"
+        "link": "/brev-9#technopole-au-bourg-de-plouzané"
       },
       "geometry": {
         "coordinates": [
@@ -600,10 +632,10 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "name": "Pluzané - La Trinité",
+        "name": "Plouzané - La Trinité",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/brev-9#???"
+        "link": "/brev-9#technopole-au-bourg-de-plouzané"
       },
       "geometry": {
         "coordinates": [
