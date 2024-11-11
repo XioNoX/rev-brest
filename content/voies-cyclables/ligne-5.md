@@ -107,7 +107,7 @@ Entre le rond-point de Kerlois et le terminus du Tram à la Porte de Gouesnou, l
 
 La partie Brestoise de la :line-link{line=5} desservira d’abord la zone commerciale de Kergaradec, la Maison d’Arrêt (traversée du Boulevard de l’Europe au rond-point de Roumanie), Pontanézen et le Petit Kerzu.
 
-La :line-link{line=5} empruntera ensuite le boulevard Montaigne à partir du Dourjacq, et le la rue Paul Doumer jusqu’au rond-point de la place Albert 1er. Elle passe à proximité de la cité scolaire de Kerichen et de l’église St-Luc. Des voies cyclables sont actuellement tracées sur le boulevard Montaigne et les cyclistes partagent la rue Paul Doumer avec le bus.
+La :line-link{line=5} empruntera ensuite le boulevard Montaigne à partir du Dourjacq, et la rue Paul Doumer jusqu’au rond-point de la place Albert 1er. Elle passe à proximité de la cité scolaire de Kerichen et de l’église St-Luc. Des voies cyclables sont actuellement tracées sur le boulevard Montaigne et les cyclistes partagent la rue Paul Doumer avec le bus.
 
 Le rond-point de la place Albert 1er sera à aménager pour permettre le passage des voitures, du tram et des vélos. C’est le croisement de la :line-link{line=5} et de la :line-link{line=2}.
 
@@ -115,9 +115,9 @@ La :line-link{line=5} desservira le Lycée Ste-Anne en continuant sur la rue Lam
 
 
 #### Rue de Maissin
-Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
+Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 
 9 - Rue Saint Exupéry - Rue de Maissin - Rue Galliéni
 
@@ -125,9 +125,9 @@ Aménagements prévus dans le cadre de l’opération NPNRU Recouvrance. Program
 ::
 
 #### Pont de l’Harteloire, rue Lamotte Picquet
-Marqué comme "prévu" sur la carte car mentionné par le Schèma Directeur Vélo
+Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vélo
 ::banner{type="info"}
-**Schèma Directeur Vélo**
+**Schéma Directeur Vélo**
 
 Rue Galliéni - Pont de l’Harteloire - rue Tourville - rue Lamotte Picquet : aménagement cyclable bidirectionnel
 ::

@@ -43,7 +43,7 @@ credit: Google
 ---
 ::
 
-Pour les axes non structurants il serait également pertinent d'en faire des voies vertes ou axes réservés aux résidents pour y réduire le traffic de transit.
+Pour les axes non structurants il serait également pertinent d'en faire des voies vertes ou axes réservés aux résidents pour y réduire le trafic de transit.
 
 ### Tronçon de Bohars vers Gouesnou
 En continuant sur le chemin de la ligne jusqu’à Gouesnou, nous connectons avec  les :line-link{line=5} et :line-link{line=6} qui permettent de continuer jusqu’à Bourg-Blanc ou Plabennec.
