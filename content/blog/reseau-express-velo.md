@@ -5,6 +5,7 @@ imageUrl: https://www.tourisme-rennes.com/voy_content/uploads/2023/12/Rev-velo-r
 ---
 <small>Crédit photo : Rennes - Ville et Métropole - Arnaud Loubry</small>
 
+Consultez la note de position de la FUB [« Réseau Express Vélo : réaliser le potentiel vélo de son territoire »](https://www.fub.fr/sites/fub/files/fub_note-position_rev_241017_web.pdf)
 
 ## Pourquoi ?
 Offrir une alternative viable à la voiture pour les trajets du quotidien.
@@ -22,7 +23,7 @@ Un réseau vélo structurant (un peu partout, mais pas dans chaque rue) à haut 
 ### Il doit être sécurisé
 Un enfant doit pouvoir l'utiliser seul.
 
-Ce qui veut dire soit des pistes cyclables (ou voies-vertes) séparées des voitures, soit des rues avec très peu de trafic routier (par exemple les impasses sauf piéton/vélo, riverains uniquement) aussi apppelées [vélorues](https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee).
+Ce qui veut dire soit des pistes cyclables (ou voies-vertes) séparées des voitures, soit des rues avec très peu de trafic routier (par exemple les impasses sauf piéton/vélo, riverains uniquement) aussi appelées [vélorues](https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee).
 
 ::content-image
 ---
@@ -43,7 +44,7 @@ credit: CEREMA
 ::
 
 ### Il doit être efficace
-Un REV est fait pour etre utilisé pour tous les trajets du quotidien (courses, travail, loisirs) et non pas uniquement de la balade dominicale. C'est pourquoi il doit être direct et continu du début à la fin. Pas 1000 zigzags alors que la route est directe, pas des petits bouts d'aménagements par-ci par-là, et la priorité aux intersections.
+Un REV est fait pour être utilisé pour tous les trajets du quotidien (courses, travail, loisirs) et non pas uniquement de la balade dominicale. C'est pourquoi il doit être direct et continu du début à la fin. Pas 1000 zigzags alors que la route est directe, pas des petits bouts d'aménagements par-ci par-là, et la priorité aux intersections.
 Efficacité veut aussi dire ne pas causer de conflits avec les piétons, donc éviter les zones de rencontres (exemple parfait : rue de Siam).
 
 Des voies larges pour ne pas rester bloqué derrière un vélo (même cargo), les recommendations sont de 2,5m à 3,5m de large pour une piste unidirectionnelle, et 3 à 4m pour une bidirectionnelle. Ce qui permet également au réseau de transporter un grand nombre de personnes.
