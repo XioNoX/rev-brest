@@ -4,7 +4,7 @@ const TITLE = `Le BREV de Brest - ${config.assoName}`;
 const DESCRIPTION =
   `Plateforme citoyenne et associative, par ${config.assoName}. Imaginez avec nous un réseau cyclable sécurisé à Brest et ses alentours.`;
 const BASE_URL = 'https://brev.bapav.org';
-const COVER_IMAGE_URL = 'https://brev.bapav.org/medias/logo-brev.png';
+const COVER_IMAGE_URL = 'https://brev.bapav.org/medias/logo-brev-square.png';
 
 export default defineNuxtConfig({
   app: {
