@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-8 w-auto sm:h-12"
-              src="https://brev.bapav.org/medias/logo-brev.png"
+              src="/medias/logo-brev.png"
               alt="logo BREV"
             >
             <img
