@@ -3,18 +3,19 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6">
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
-          <NuxtLink to="/" class="flex space-x-2">
+          <NuxtLink to="/" class="flex items-center space-x-2">
             <span class="sr-only">Cyclopolis</span>
             <img
-              class="h-7 w-auto sm:h-8"
+              class="h-8 w-auto sm:h-12"
+              src="../../../medias/logo-brev.png"
+              alt="logo BREV"
+            >
+            <img
+              class="h-3 w-auto sm:h-6"
               src="https://www.bapav.org/wp-content/uploads/2020/04/cropped-Logo-BaPaV-Bleu-Noir.png"
               :alt="`logo ${getAssoName()}`"
             >
-            <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
-            >
+
           </NuxtLink>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
