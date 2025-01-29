@@ -121,6 +121,15 @@
             rel="noopener noreferrer"
           >Vercel</a>
         </p>
+        <h2>Logo</h2>
+        <p>
+          Réalisé par Clémentine CHAMINADE - 
+          <a
+            href="https://www.instagram.com/guinguette.lab/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >@guinguette.lab</a>
+        </p>
         <h2>Protection des données à caractère personnel</h2>
         <p>Le présent site web respecte les règles suivantes :</p>
         <ul>
