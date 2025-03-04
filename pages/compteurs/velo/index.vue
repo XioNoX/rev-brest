@@ -9,9 +9,7 @@
           Suivi des {{ counters.length }} compteurs vélo de Brest Métropole
         </h2>
         <p class="mt-8 text-xl text-gray-500 leading-8">
-          Expérimental.<br>
-          Nous sommes dans l'attente de Brest Métropole pour des données de comptage plus récentes.<br>
-          Nous avons donc extrapolé à partir d'un unique jour de comptage disponible sur le SIG de la Métropole.
+          Données de 2014 à 2023, en <a href="https://madada.fr/demande/donnees_de_comptage_velos" target="_blank">attente</a> de 2024.<br>
         </p>
         <ClientOnly>
           <Map :features="features" :options="{ legend: false, filter: false }" class="mt-12" style="height: 40vh" />

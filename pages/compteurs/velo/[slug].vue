@@ -32,7 +32,7 @@
     </template> -->
 
     <h2>Source des données</h2>
-    <p>Les données proviennent de <a href="https://geo.brest-metropole.fr/portal/home/item.html?id=5b3fd537e38c4019b178efdc45231df8" target="_blank">Brest Métropole</a>.</p>
+    <p>Les données proviennent de <a href="https://madada.fr/demande/donnees_de_comptage_velos" target="_blank">Brest Métropole</a>.</p>
   </ContentFrame>
 </template>
 
