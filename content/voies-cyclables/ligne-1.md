@@ -120,7 +120,7 @@ Portion dangereuse pour les vélos notamment lorsque 2 véhicules motorisés doi
 
 ### Rond-point de Roc’h Kerezenn
 
-Quoi de mieux que de finir la ligne au futur [pôle d'échange multimodal](https://www.monreseaugrandit.fr/les-amenagements/PEM) construit dans le cadre du projet du tram ?
+Cette ligne passerait par le futur [pôle d'échange multimodal](https://www.monreseaugrandit.fr/les-amenagements/PEM) construit dans le cadre du projet du tram.
 * Environ 20 places de P+R situées au niveau du parking du centre commercial,
 * 20 places de covoiturage,
 * 2 places dépose minute,
@@ -143,6 +143,9 @@ caption: Le pôle d'échange multimodal de Plougastel-Daoulas
 credit: Brest Métropole
 ---
 ::
+
+### Rue du Père Gwenael
+Section ajoutée grace à une collaboration avec l'association Place au Vélo à Plougastel, plus d'informations à venir dont une étude détaillée de la rue et du secteur pour l'implantation d'une voie cyclable de qualité.
 
 ### La suite ?
 Vers où celle ligne devrait-elle continuer ? N'hésitez pas à nous faire part de vos idées !
