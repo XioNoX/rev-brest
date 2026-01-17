@@ -16,10 +16,10 @@
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@tailwindcss/typography": "^0.5.14",
     "eslint": "^8.57.0",
-    "nuxt": "^3.12.4",
+    "nuxt": "^3.20.2",
     "prettier": "^3.3.3",
     "sitemap": "^7.1.1",
-    "vitest": "^2.0.5"
+    "vitest": "^4.0.17"
   },
   "dependencies": {
     "highcharts-vue": "^2.0.1",
