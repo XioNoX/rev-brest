@@ -1,0 +1,58 @@
+{
+  "name": "Gaston Planté x Le Gros",
+  "description": "Nouveau compteur 2025",
+  "arrondissement": "Gouesnou",
+  "idPdc": "GO Gaston Planté x Le Gros",
+  "coordinates": [-4.462912531525078, 48.427697782323484],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2025-01",
+      "count": 1301
+    },
+    {
+      "month": "2025-02",
+      "count": 1343
+    },
+    {
+      "month": "2025-03",
+      "count": 1956
+    },
+    {
+      "month": "2025-04",
+      "count": 1814
+    },
+    {
+      "month": "2025-05",
+      "count": 1888
+    },
+    {
+      "month": "2025-06",
+      "count": 1446
+    },
+    {
+      "month": "2025-07",
+      "count": 1954
+    },
+    {
+      "month": "2025-08",
+      "count": 2059
+    },
+    {
+      "month": "2025-09",
+      "count": 2082
+    },
+    {
+      "month": "2025-10",
+      "count": 1880
+    },
+    {
+      "month": "2025-11",
+      "count": 1455
+    },
+    {
+      "month": "2025-12",
+      "count": 1067
+    }
+  ]
+}

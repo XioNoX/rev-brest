@@ -1,8 +1,8 @@
 {
-  "name": "PM Lib\u00e9ration",
+  "name": "PM Libération",
   "description": "",
   "arrondissement": "Brest Saint Pierre",
-  "idPdc": "PM Lib\u00e9ration",
+  "idPdc": "PM Libération",
   "coordinates": [
     -4.51668,
     48.39677
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 1292
+    },
+    {
+      "month": "2025-01",
+      "count": 1401
+    },
+    {
+      "month": "2025-02",
+      "count": 1316
+    },
+    {
+      "month": "2025-03",
+      "count": 1541
+    },
+    {
+      "month": "2025-04",
+      "count": 1948
+    },
+    {
+      "month": "2025-05",
+      "count": 2098
+    },
+    {
+      "month": "2025-06",
+      "count": 1406
+    },
+    {
+      "month": "2025-07",
+      "count": 1478
+    },
+    {
+      "month": "2025-08",
+      "count": 1395
+    },
+    {
+      "month": "2025-09",
+      "count": 2087
+    },
+    {
+      "month": "2025-10",
+      "count": 2008
+    },
+    {
+      "month": "2025-11",
+      "count": 1564
+    },
+    {
+      "month": "2025-12",
+      "count": 1263
     }
   ]
 }

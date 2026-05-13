@@ -1,8 +1,8 @@
 {
-  "name": "PM Europe x C\u00e9zanne",
+  "name": "PM Europe x Cézanne",
   "description": "",
   "arrondissement": "Brest Europe",
-  "idPdc": "PM Europe x C\u00e9zanne",
+  "idPdc": "PM Europe x Cézanne",
   "coordinates": [
     -4.47138,
     48.41592
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 6649
+    },
+    {
+      "month": "2025-01",
+      "count": 6791
+    },
+    {
+      "month": "2025-02",
+      "count": 7147
+    },
+    {
+      "month": "2025-03",
+      "count": 7657
+    },
+    {
+      "month": "2025-04",
+      "count": 8323
+    },
+    {
+      "month": "2025-05",
+      "count": 8878
+    },
+    {
+      "month": "2025-06",
+      "count": 7193
+    },
+    {
+      "month": "2025-07",
+      "count": 7567
+    },
+    {
+      "month": "2025-08",
+      "count": 5912
+    },
+    {
+      "month": "2025-09",
+      "count": 8386
+    },
+    {
+      "month": "2025-10",
+      "count": 7915
+    },
+    {
+      "month": "2025-11",
+      "count": 6399
+    },
+    {
+      "month": "2025-12",
+      "count": 4888
     }
   ]
 }

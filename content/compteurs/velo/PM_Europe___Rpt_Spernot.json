@@ -1,7 +1,7 @@
 {
   "name": "PM Europe x Rpt Spernot",
   "description": "",
-  "arrondissement": "Brest Lamb\u00e9zellec",
+  "arrondissement": "Brest Lambézellec",
   "idPdc": "PM Europe x Rpt Spernot",
   "coordinates": [
     -4.50872,
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 4086
+    },
+    {
+      "month": "2025-01",
+      "count": 4810
+    },
+    {
+      "month": "2025-02",
+      "count": 4976
+    },
+    {
+      "month": "2025-03",
+      "count": 5691
+    },
+    {
+      "month": "2025-04",
+      "count": 6105
+    },
+    {
+      "month": "2025-05",
+      "count": 6509
+    },
+    {
+      "month": "2025-06",
+      "count": 5334
+    },
+    {
+      "month": "2025-07",
+      "count": 4500
+    },
+    {
+      "month": "2025-08",
+      "count": 3574
+    },
+    {
+      "month": "2025-09",
+      "count": 4713
+    },
+    {
+      "month": "2025-10",
+      "count": 4320
+    },
+    {
+      "month": "2025-11",
+      "count": 3529
+    },
+    {
+      "month": "2025-12",
+      "count": 4023
     }
   ]
 }

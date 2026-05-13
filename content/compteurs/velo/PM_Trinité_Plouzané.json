@@ -1,8 +1,8 @@
 {
-  "name": "PM Trinit\u00e9 Plouzan\u00e9",
+  "name": "PM Trinité Plouzané",
   "description": "",
-  "arrondissement": "Plouzan\u00e9",
-  "idPdc": "PM Trinit\u00e9 Plouzan\u00e9",
+  "arrondissement": "Plouzané",
+  "idPdc": "PM Trinité Plouzané",
   "coordinates": [
     -4.58798,
     48.36822
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 9684
+    },
+    {
+      "month": "2025-01",
+      "count": 11068
+    },
+    {
+      "month": "2025-02",
+      "count": 10142
+    },
+    {
+      "month": "2025-03",
+      "count": 11729
+    },
+    {
+      "month": "2025-04",
+      "count": 12556
+    },
+    {
+      "month": "2025-05",
+      "count": 13481
+    },
+    {
+      "month": "2025-06",
+      "count": 10951
+    },
+    {
+      "month": "2025-07",
+      "count": 4715
+    },
+    {
+      "month": "2025-08",
+      "count": 8511
+    },
+    {
+      "month": "2025-09",
+      "count": 11776
+    },
+    {
+      "month": "2025-10",
+      "count": 8451
+    },
+    {
+      "month": "2025-11",
+      "count": 6471
+    },
+    {
+      "month": "2025-12",
+      "count": 3572
     }
   ]
 }

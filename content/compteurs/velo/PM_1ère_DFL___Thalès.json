@@ -1,8 +1,8 @@
 {
-  "name": "PM 1\u00e8re DFL x Thal\u00e8s",
+  "name": "PM 1ère DFL x Thalès",
   "description": "",
   "arrondissement": "Brest Saint Pierre",
-  "idPdc": "PM 1\u00e8re DFL x Thal\u00e8s",
+  "idPdc": "PM 1ère DFL x Thalès",
   "coordinates": [
     -4.55242,
     48.37648
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 6410
+    },
+    {
+      "month": "2025-01",
+      "count": 7866
+    },
+    {
+      "month": "2025-02",
+      "count": 7862
+    },
+    {
+      "month": "2025-03",
+      "count": 9786
+    },
+    {
+      "month": "2025-04",
+      "count": 11139
+    },
+    {
+      "month": "2025-05",
+      "count": 11652
+    },
+    {
+      "month": "2025-06",
+      "count": 9713
+    },
+    {
+      "month": "2025-07",
+      "count": 12242
+    },
+    {
+      "month": "2025-08",
+      "count": 10627
+    },
+    {
+      "month": "2025-09",
+      "count": 12155
+    },
+    {
+      "month": "2025-10",
+      "count": 10871
+    },
+    {
+      "month": "2025-11",
+      "count": 8462
+    },
+    {
+      "month": "2025-12",
+      "count": 6212
     }
   ]
 }

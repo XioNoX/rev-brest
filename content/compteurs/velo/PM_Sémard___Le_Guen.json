@@ -1,8 +1,8 @@
 {
-  "name": "PM S\u00e9mard x Le Guen",
+  "name": "PM Sémard x Le Guen",
   "description": "",
   "arrondissement": "Brest Saint Marc",
-  "idPdc": "PM S\u00e9mard x Le Guen",
+  "idPdc": "PM Sémard x Le Guen",
   "coordinates": [
     -4.47015,
     48.39085
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 1542
+    },
+    {
+      "month": "2025-01",
+      "count": 1682
+    },
+    {
+      "month": "2025-02",
+      "count": 1617
+    },
+    {
+      "month": "2025-03",
+      "count": 2093
+    },
+    {
+      "month": "2025-04",
+      "count": 2383
+    },
+    {
+      "month": "2025-05",
+      "count": 2478
+    },
+    {
+      "month": "2025-06",
+      "count": 2822
+    },
+    {
+      "month": "2025-07",
+      "count": 2816
+    },
+    {
+      "month": "2025-08",
+      "count": 2278
+    },
+    {
+      "month": "2025-09",
+      "count": 2533
+    },
+    {
+      "month": "2025-10",
+      "count": 2286
+    },
+    {
+      "month": "2025-11",
+      "count": 1663
+    },
+    {
+      "month": "2025-12",
+      "count": 1390
     }
   ]
 }

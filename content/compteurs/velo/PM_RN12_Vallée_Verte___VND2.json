@@ -1,8 +1,8 @@
 {
-  "name": "PM RN12 Vall\u00e9e Verte x VND2",
+  "name": "PM RN12 Vallée Verte x VND2",
   "description": "",
   "arrondissement": "Gouesnou",
-  "idPdc": "PM RN12 Vall\u00e9e Verte x VND2",
+  "idPdc": "PM RN12 Vallée Verte x VND2",
   "coordinates": [
     -4.46895,
     48.43384
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 1939
+    },
+    {
+      "month": "2025-01",
+      "count": 2031
+    },
+    {
+      "month": "2025-02",
+      "count": 2111
+    },
+    {
+      "month": "2025-03",
+      "count": 2485
+    },
+    {
+      "month": "2025-04",
+      "count": 3079
+    },
+    {
+      "month": "2025-05",
+      "count": 2801
+    },
+    {
+      "month": "2025-06",
+      "count": 1261
+    },
+    {
+      "month": "2025-07",
+      "count": 1656
+    },
+    {
+      "month": "2025-08",
+      "count": 1504
+    },
+    {
+      "month": "2025-09",
+      "count": 753
+    },
+    {
+      "month": "2025-10",
+      "count": 0
+    },
+    {
+      "month": "2025-11",
+      "count": 1094
+    },
+    {
+      "month": "2025-12",
+      "count": 1144
     }
   ]
 }

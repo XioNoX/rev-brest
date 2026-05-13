@@ -1,8 +1,8 @@
 {
-  "name": "PM St-Exup\u00e9ry x 18 Juin 1940",
+  "name": "PM St-Exupéry x 18 Juin 1940",
   "description": "",
   "arrondissement": "Brest Quatre Moulins",
-  "idPdc": "PM St-Exup\u00e9ry x 18 Juin 1940",
+  "idPdc": "PM St-Exupéry x 18 Juin 1940",
   "coordinates": [
     -4.5041,
     48.38627
@@ -536,6 +536,54 @@
     {
       "month": "2024-12",
       "count": 1512
+    },
+    {
+      "month": "2025-01",
+      "count": 1672
+    },
+    {
+      "month": "2025-02",
+      "count": 1503
+    },
+    {
+      "month": "2025-03",
+      "count": 1855
+    },
+    {
+      "month": "2025-04",
+      "count": 1858
+    },
+    {
+      "month": "2025-05",
+      "count": 2193
+    },
+    {
+      "month": "2025-06",
+      "count": 1768
+    },
+    {
+      "month": "2025-07",
+      "count": 2072
+    },
+    {
+      "month": "2025-08",
+      "count": 1579
+    },
+    {
+      "month": "2025-09",
+      "count": 2089
+    },
+    {
+      "month": "2025-10",
+      "count": 1806
+    },
+    {
+      "month": "2025-11",
+      "count": 1402
+    },
+    {
+      "month": "2025-12",
+      "count": 1225
     }
   ]
 }

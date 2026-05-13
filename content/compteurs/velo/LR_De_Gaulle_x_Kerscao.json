@@ -1,0 +1,58 @@
+{
+  "name": "De Gaulle x Kerscao",
+  "description": "Nouveau compteur 2025",
+  "arrondissement": "Le Relecq-Kerhuon",
+  "idPdc": "LR De Gaulle x Kerscao",
+  "coordinates": [-4.40644931627837, 48.4005914445019],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2025-01",
+      "count": 0
+    },
+    {
+      "month": "2025-02",
+      "count": 0
+    },
+    {
+      "month": "2025-03",
+      "count": 0
+    },
+    {
+      "month": "2025-04",
+      "count": 0
+    },
+    {
+      "month": "2025-05",
+      "count": 0
+    },
+    {
+      "month": "2025-06",
+      "count": 0
+    },
+    {
+      "month": "2025-07",
+      "count": 0
+    },
+    {
+      "month": "2025-08",
+      "count": 0
+    },
+    {
+      "month": "2025-09",
+      "count": 0
+    },
+    {
+      "month": "2025-10",
+      "count": 228
+    },
+    {
+      "month": "2025-11",
+      "count": 1076
+    },
+    {
+      "month": "2025-12",
+      "count": 738
+    }
+  ]
+}
