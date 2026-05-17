@@ -8,7 +8,7 @@
       <NuxtLink :to="item.link" class="no-underline">
         <div class="flex justify-between">
           <div class="text-base font-normal text-gray-900">
-            {{ item.name }}
+            {{ item.name }}<br><small>{{ item.namebzg }}</small>
           </div>
           <div class="text-sm" :class="item.class">
             {{ displayPercent(item.percent) }}

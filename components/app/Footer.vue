@@ -42,43 +42,33 @@ const links = [
 
 const socials = [
   {
-    name: 'Bluesky',
-    href: 'https://bsky.app/profile/lavilleavelo.bsky.social',
-    icon: 'fa6-brands:bluesky',
-  },
-  {
-    name: 'Mastodon',
-    href: 'https://masto.bike/@lavilleavelo',
-    icon: 'mdi:mastodon',
-  },
-  {
     name: 'Facebook',
-    href: 'https://www.facebook.com/lavilleavelolyon/',
+    href: 'https://www.facebook.com/LaBaPaV/',
     icon: 'mdi:facebook',
   },
   {
     name: 'LinkedIn',
-    href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
+    href: 'https://www.linkedin.com/company/bapav',
     icon: 'mdi:linkedin',
   },
   {
     name: 'Instagram',
-    href: 'https://www.instagram.com/lavilleavelolyon',
+    href: 'https://www.instagram.com/bapav.asso/',
     icon: 'mdi:instagram',
   },
   {
     name: 'Github',
-    href: 'https://github.com/lavilleavelo/cyclopolis',
+    href: 'https://github.com/XioNoX/rev-brest/',
     icon: 'mdi:github',
   },
   {
     name: 'Site web',
-    href: 'https://lavilleavelo.org/',
+    href: 'https://www.bapav.org/',
     icon: 'mdi:link',
   },
   {
     name: 'Email',
-    href: 'mailto:contact_at_lavilleavelo.org',
+    href: 'mailto:contact_at_bapav.org',
     icon: 'mdi:email-outline',
   },
 ];

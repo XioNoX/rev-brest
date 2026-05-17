@@ -1,9 +1,9 @@
 import config from './config.json';
 
-const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.assoName}`;
-const DESCRIPTION = `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais`;
-const BASE_URL = 'https://cyclopolis.fr';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const TITLE = `Le BREV de Brest - ${config.assoName}`;
+const DESCRIPTION =  `Plateforme citoyenne et associative, par ${config.assoName}. Imaginez avec nous un réseau cyclable sécurisé à Brest et ses alentours.`;
+const BASE_URL = 'https://brev.bapav.org';
+const COVER_IMAGE_URL = 'https://brev.bapav.org/medias/logo-brev-square.png';
 
 export default defineNuxtConfig({
   srcDir: '.',
@@ -98,7 +98,7 @@ export default defineNuxtConfig({
     autoTrack: true,
     ignoreLocalhost: true,
     excludeQueryParams: true,
-    enabled: true,
+    enabled: false,
     logErrors: true,
   },
 });

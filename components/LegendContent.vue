@@ -22,16 +22,15 @@
         </div>
       </div>
     </div>
-    <div class="my-auto">prévu pour 2026</div>
-
-    <div :class="['my-auto rounded-md border-gray-500 border relative', borderClass]">
-      <div :class="['bg-white', lineHeightClass]" />
-      <div :class="['text-lvv-blue-600 font-bold leading-none absolute', xTextClass]">
-        <span v-if="props.size === 'small'">x x x x</span>
-        <span v-else>x x x x x</span>
+    <div class="my-auto">prévu</div>
+    <div :class="['my-auto rounded-md border-gray-500 border', borderClass]">
+      <div :class="['relative', lineHeightClass]">
+        <div class="absolute h-full w-full">
+          <div class="h-full bg-lvv-blue-600 dashed-line-unknown" />
+        </div>
       </div>
     </div>
-    <div class="my-auto">reporté après 2026</div>
+    <div class="my-auto">nécessaire</div>
   </div>
 </template>
 
@@ -65,6 +64,13 @@ const xTextClass = computed(() => (props.size === 'small' ? 'text-[12px] -top-[5
 
 .dashed-line-planned {
   background-image: linear-gradient(to right, transparent 33%, white 33%);
+  background-position: 0 0;
+  background-repeat: repeat-x;
+  background-size: 12px 0.25rem;
+}
+
+.dashed-line-unknown {
+  background-image: linear-gradient(to right, transparent 75%, white 75%);
   background-position: 0 0;
   background-repeat: repeat-x;
   background-size: 12px 0.25rem;

@@ -105,7 +105,7 @@ const StatusBadge = defineComponent({
       wip: 'En travaux',
       tested: 'En travaux',
       planned: 'Prévu',
-      postponed: 'Reporté',
+      postponed: 'Souhaité',
     };
 
     const colors: Record<string, string> = {
@@ -148,7 +148,7 @@ const groupedResults = computed(() => {
   }
 
   const order: [string, string][] = [
-    ['voie', 'Voies Lyonnaises'],
+    ['voie', 'BREV'],
     ['page', 'Pages'],
     ['section', 'Tronçons'],
     ['compteur-velo', 'Compteurs vélo'],

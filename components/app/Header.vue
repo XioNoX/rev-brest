@@ -3,17 +3,17 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6">
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
-          <NuxtLink to="/" class="flex space-x-2">
+          <NuxtLink to="/" class="flex items-center space-x-2">
             <span class="sr-only">Cyclopolis</span>
             <img
-              class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
-              :alt="`logo ${getAssoName()}`"
+              class="h-8 w-auto sm:h-12"
+              src="/medias/logo-brev.png"
+              alt="logo BREV"
             />
             <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
+              class="h-3 w-auto sm:h-6"
+              src="https://www.bapav.org/wp-content/uploads/2020/04/cropped-Logo-BaPaV-Bleu-Noir.png"
+              :alt="`logo ${getAssoName()}`"
             />
           </NuxtLink>
         </div>
@@ -69,7 +69,7 @@
                     >
                       Carte interactive
                     </NuxtLink>
-                    <NuxtLink
+                    <!-- <NuxtLink
                       to="/evolution"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
@@ -82,6 +82,17 @@
                       @click="close()"
                     >
                       Plan officiel
+                    </NuxtLink> -->
+                    <NuxtLink
+                      to="https://umap.openstreetmap.fr/fr/map/services-velo-brest_1067200"
+                      class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      target="_blank"
+                      @click="close()"
+                    >
+                    <span>Services</span>
+                      <div class="flex items-center">
+                        <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
+                      </div>
                     </NuxtLink>
                     <NuxtLink
                       :to="barometreVeloLink"
@@ -89,7 +100,7 @@
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Lyon</span>
+                      <span>Baromètre FUB Brest</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
@@ -269,7 +280,7 @@
               <NuxtLink to="/" @click="close()">
                 <img
                   class="h-8 w-auto"
-                  src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+                  src="https://www.bapav.org/wp-content/uploads/2020/04/cropped-Logo-BaPaV-Bleu-Noir.png"
                   :alt="`logo ${getAssoName()}`"
                 />
               </NuxtLink>
@@ -375,7 +386,7 @@ import type GlobalSearch from '~/components/GlobalSearch.vue';
 const { getLineColor } = useColors();
 const { getVoieCyclablePath } = useUrl();
 const { getAssoName } = useConfig();
-const barometreVeloLink = 'https://www.barometre-velo.fr/2025/carte/#11.1/45.7505/4.8316';
+const barometreVeloLink = 'https://www.barometre-velo.fr/2025/carte/#11.58/48.3909/-4.4427';
 
 const isLargeScreen = useMediaQuery('(min-width: 1024px)');
 const isMac = computed(() => typeof navigator !== 'undefined' && /Mac|iPhone|iPad/.test(navigator.userAgent));
@@ -384,10 +395,12 @@ const linkToMap = computed(() => {
 });
 
 const navItems = computed(() => [
-  { name: 'Carte interactive', path: linkToMap.value, target: '_self' },
-  { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
-  { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
-  { name: 'Baromètre FUB Lyon', path: barometreVeloLink, target: '_blank' },
+  //{ name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
+  //{ name: 'Évolution du réseau', path: '/evolution', target: '_self' },
+  { name: 'Baromètre FUB Brest', path: barometreVeloLink, target: '_blank' },
+  { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
+  { name: 'Services', path: 'https://umap.openstreetmap.fr/fr/map/services-velo-brest_1067200', target: '_blank' },
+  { name: 'Compteurs', path: '/compteurs/velo', target: '_self' },
 ]);
 
 const { voies } = await useGetVoiesCyclablesNums();

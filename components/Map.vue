@@ -75,7 +75,7 @@ const { displayDistanceInKm, displayPercent } = useStats();
 const MAP_BOUNDS = config.bounds as [[number, number], [number, number]];
 
 const defaultOptions = {
-  logo: true,
+  logo: false,
   legend: true,
   filter: true,
   geolocation: false,

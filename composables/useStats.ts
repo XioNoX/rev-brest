@@ -133,10 +133,13 @@ export const useStats = () => {
 
     const wipFeatures = features.filter((feature) => ['wip', 'tested'].includes(feature.properties.status ?? ''));
     const plannedFeatures = features.filter((feature) =>
-      ['planned', 'unknown'].includes(feature.properties.status ?? ''),
+      ['planned'].includes(feature.properties.status ?? ''),
     );
     const postponedFeatures = features.filter((feature) =>
       ['postponed', 'variante-postponed'].includes(feature.properties.status ?? ''),
+    );
+    const unknownFeatures = features.filter((feature) =>
+      ['unknown', 'variante'].includes(feature.properties.status ?? ''),
     );
 
     const totalDistance = getDistance({ features });
@@ -144,6 +147,8 @@ export const useStats = () => {
     const wipDistance = getDistance({ features: wipFeatures });
     const plannedDistance = getDistance({ features: plannedFeatures });
     const postponedDistance = getDistance({ features: postponedFeatures });
+    const unknownDistance = getDistance({ features: unknownFeatures });
+
 
     function getPercent(distance: number) {
       return Math.round((distance / totalDistance) * 100);
@@ -164,6 +169,7 @@ export const useStats = () => {
     return {
       done: {
         name: 'Réalisés',
+        namebzg: 'Echuet',
         distance: doneDistance,
         percent: getPercent(doneDistance),
         class: 'text-lvv-blue-600 font-semibold',
@@ -171,6 +177,7 @@ export const useStats = () => {
       },
       wip: {
         name: 'En travaux',
+        namebzg: 'War ar stern',
         distance: wipDistance,
         percent: getPercent(wipDistance),
         class: 'text-lvv-blue-600 font-normal',
@@ -178,17 +185,19 @@ export const useStats = () => {
       },
       planned: {
         name: 'Prévus',
+        namebzg: 'Raktreset',
         distance: plannedDistance,
         percent: getPercent(plannedDistance),
         class: 'text-black font-semibold',
         link: generateLink(['planned', 'unknown']),
       },
-      postponed: {
-        name: 'Reportés',
-        distance: postponedDistance,
-        percent: getPercent(postponedDistance),
+      unknown: {
+        name: 'Souhaités',
+        namebzg: 'Da dizhout',
+        distance: unknownDistance,
+        percent: getPercent(unknownDistance),
         class: 'text-lvv-pink font-semibold',
-        link: generateLink(['postponed', 'variante-postponed']),
+        link: generateLink(['unknown']),
       },
     };
   }

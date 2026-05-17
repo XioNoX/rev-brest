@@ -1,0 +1,58 @@
+{
+  "name": "Ecole Navale Résistance",
+  "description": "Nouveau compteur 2025",
+  "arrondissement": "Brest Saint Pierre",
+  "idPdc": "BR SP Ecole Navale Résistance",
+  "coordinates": [-4.526915089278937, 48.37876441690541],
+  "lines": [10],
+  "counts": [
+    {
+      "month": "2025-01",
+      "count": 0
+    },
+    {
+      "month": "2025-02",
+      "count": 0
+    },
+    {
+      "month": "2025-03",
+      "count": 0
+    },
+    {
+      "month": "2025-04",
+      "count": 0
+    },
+    {
+      "month": "2025-05",
+      "count": 0
+    },
+    {
+      "month": "2025-06",
+      "count": 0
+    },
+    {
+      "month": "2025-07",
+      "count": 0
+    },
+    {
+      "month": "2025-08",
+      "count": 2721
+    },
+    {
+      "month": "2025-09",
+      "count": 4444
+    },
+    {
+      "month": "2025-10",
+      "count": 4573
+    },
+    {
+      "month": "2025-11",
+      "count": 4122
+    },
+    {
+      "month": "2025-12",
+      "count": 3587
+    }
+  ]
+}

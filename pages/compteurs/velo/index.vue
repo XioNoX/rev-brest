@@ -15,23 +15,27 @@
     :counters="counters"
     :filtered-features="filteredFeatures"
     search-placeholder="Chercher un compteur, une ville, une VL..."
-    empty-search-hint="Essayez un nom de rue (ex: Lafayette), une ville (ex: Villeurbanne) ou une voie lyonnaise (ex: VL 3)"
+    empty-search-hint="Essayez un nom de rue (ex: Lafayette), une ville (ex: Guipavas) ou une BREV (ex: VL 3)"
   >
     <template #header>
       <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
-        Suivi des compteurs vélo de l'agglomération lyonnaise
+        Suivi des {{ counters.length }} compteurs vélo de Brest Métropole
       </h2>
       <p class="mt-4 text-xl text-gray-500 leading-8">
-        Chaque début de mois, nous remontons les données de {{ allCounters?.length ?? 0 }} compteurs à vélo de
-        l'agglomération lyonnaise.
+        Données de 2014 à 2025.<br>
       </p>
       <span class="text-sm text-gray-400"
-        >Données&nbsp;:&nbsp;<a
+        >Données&nbsp;:&nbsp; Brest Métropole (<a
           class="hover:underline"
-          href="https://data.eco-counter.com/ParcPublic/?id=3902#"
+          href="https://madada.fr/demande/donnees_de_comptage_velos"
           target="_blank"
-          >data.eco-counter.com</a
-        ></span
+          >2014-2024</a
+        >, <a
+          class="hover:underline"
+          href="https://madada.fr/demande/donnees_de_comptage_velo_2025"
+          target="_blank"
+          >2025</a
+        >) </span
       >
     </template>
     <template #overview>

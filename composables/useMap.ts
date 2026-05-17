@@ -184,7 +184,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
       id: 'unsatisfactory-sections',
       type: 'line',
       source: 'unsatisfactory-sections',
-      minzoom: 13,
+      minzoom: 14,
       paint: {
         'line-gap-width': 5,
         'line-width': 4,
@@ -489,6 +489,26 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
     });
   }
 
+  function plotUnknownSections({ map, features }: { map: MaplibreType; features: ColoredLineStringFeature[] }) {
+    if (features.length === 0 && !map.getLayer('unknown-sections')) {
+      return;
+    }
+    if (upsertMapSource(map, 'unknown-sections', features as Collections['voiesCyclablesGeojson']['features'])) {
+      return;
+    }
+
+    map.addLayer({
+      id: 'unknown-sections',
+      type: 'line',
+      source: 'unknown-sections',
+      paint: {
+        'line-width': 4,
+        'line-color': ['get', 'color'],
+        'line-dasharray': [4, 1],
+      },
+    });
+  }
+
   function plotVarianteSections({ map, features }: { map: MaplibreType; features: ColoredLineStringFeature[] }) {
     if (features.length === 0 && !map.getLayer('variante-sections')) {
       return;
@@ -699,7 +719,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
       id: 'dangers',
       source: 'dangers',
       type: 'symbol',
-      minzoom: 14,
+      minzoom: 13,
       layout: {
         'icon-image': 'danger-icon',
         'icon-size': 0.7,
@@ -990,6 +1010,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
     const done: ColoredLineStringFeature[] = [];
     const wip: ColoredLineStringFeature[] = [];
     const planned: ColoredLineStringFeature[] = [];
+    const unknown: ColoredLineStringFeature[] = [];
     const variante: ColoredLineStringFeature[] = [];
     const variantePostponed: ColoredLineStringFeature[] = [];
     const postponed: ColoredLineStringFeature[] = [];
@@ -1010,6 +1031,9 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
         case 'planned':
           planned.push(feature);
           break;
+        case 'unknown':
+          unknown.push(feature);
+          break;
         case 'variante':
           variante.push(feature);
           break;
@@ -1026,6 +1050,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
     plotUnsatisfactorySections({ map, features: unsatisfactory });
     plotDoneSections({ map, features: done });
     plotPlannedSections({ map, features: planned });
+    plotUnknownSections({ map, features: unknown });
     plotVarianteSections({ map, features: variante });
     plotVariantePostponedSections({ map, features: variantePostponed });
     plotWipSections({ map, features: wip });
@@ -1531,6 +1556,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
       'wip-sections',
       'wip-node-icons',
       'planned-sections',
+      'unknown-sections',
       'variante-sections',
       'variante-symbols',
       'variante-postponed-sections',

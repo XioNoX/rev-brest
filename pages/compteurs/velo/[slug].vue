@@ -80,10 +80,17 @@
     </template>
 
     <h2>Source des données</h2>
-    <p>
-      Les données proviennent de
-      <a href="https://data.eco-counter.com/ParcPublic/?id=3902#" target="_blank">data.eco-counter.com</a>.
-    </p>
+     <p>Brest Métropole (<a
+          class="hover:underline"
+          href="https://madada.fr/demande/donnees_de_comptage_velos"
+          target="_blank"
+          >2014-2024</a
+        >, <a
+          class="hover:underline"
+          href="https://madada.fr/demande/donnees_de_comptage_velo_2025"
+          target="_blank"
+          >2025</a
+        >).</p>
   </ContentFrame>
 </template>
 

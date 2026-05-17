@@ -34,7 +34,7 @@
             @click="showVoiesLyonnaises = !showVoiesLyonnaises"
           >
             <Icon name="game-icons:dutch-bike" class="text-base" />
-            Voies Lyonnaises
+            Lignes
           </button>
           <button
             type="button"

@@ -42,7 +42,7 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
       },
     },
     {
-      label: 'Prévu pour 2026',
+      label: 'Prévu',
       isEnabled: true,
       statuses: ['planned'],
       customStyle: {
@@ -52,16 +52,16 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
       },
     },
     {
-      label: 'Reporté',
+      label: 'Souhaité',
       isEnabled: true,
-      statuses: ['postponed', 'variante-postponed'],
+       statuses: ['postponed', 'variante-postponed'],
       customStyle: {
         backgroundColor: '#C84271',
         borderColor: '#C84271',
         textColor: '#FFFFFF',
       },
     },
-    // { label: 'Inconnu', isEnabled: true, statuses: ['unknown'] },
+    { label: 'Inconnu', isEnabled: true, statuses: ['unknown'] },
   ]);
 
   const typeFilters = ref([
@@ -72,7 +72,7 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
     { label: 'Vélorue', isEnabled: true, types: ['velorue'] },
     { label: 'Bandes cyclables', isEnabled: true, types: ['bandes-cyclables'] },
     { label: 'Zone de rencontre', isEnabled: true, types: ['zone-de-rencontre'] },
-    // { label: 'Inconnu', isEnabled: true, types: ['inconnu'] },
+    { label: 'Inconnu', isEnabled: true, types: ['inconnu'] },
     { label: 'Aucun', isEnabled: true, types: ['aucun'] },
   ]);
 

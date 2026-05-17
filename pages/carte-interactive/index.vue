@@ -121,8 +121,8 @@ const { filters, actions, filteredFeatures, totalDistance, filteredDistance } = 
 });
 
 const description = `Découvrez la carte interactive des ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
-const CANONICAL_URL = 'https://cyclopolis.fr/carte-interactive';
+const COVER_IMAGE_URL = 'https://brev.bapav.org/medias/capture-carte.png';
+const CANONICAL_URL = 'https://brev.bapav.org/carte-interactive';
 
 useHead({
   title: `Carte à jour des ${getRevName()}`,

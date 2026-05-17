@@ -2,8 +2,10 @@
   <div>
     <div v-if="geojson">
       <div class="text-center text-xl text-gray-900">
-        Distance totale:
-        <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
+        Distance totale : <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
+      </div>
+      <div class="text-center text-xl text-gray-900">
+        <small>Hed hollek : <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span></small>
       </div>
       <div v-if="voie.trafic" class="text-center text-sm text-gray-900">
         Fréquentation max 2030: <span class="font-bold" :style="`color: ${color}`">{{ voie.trafic }}</span>
@@ -157,8 +159,8 @@ function downloadGpx() {
   const gpx = GeoJsonToGpx(geojson.value, {
     creator: 'Cyclopolis - La Ville à Vélo',
     metadata: {
-      name: `Voie Lyonnaise ${props.voie.line}`,
-      desc: `Tracé de la voie lyonnaise ${props.voie.line} - Source: La Ville à Vélo`,
+      name: `BREV ${props.voie.line}`,
+      desc: `Tracé de la ligne ${props.voie.line} - Source: La Ville à Vélo`,
       author: {
         name: 'Cyclopolis - La Ville à Vélo',
         link: {

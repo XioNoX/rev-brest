@@ -12,11 +12,11 @@
       :style="`width: ${stats.wip.percent}%; background: repeating-linear-gradient(to right, #152B68, #152B68 1px, transparent 1px, transparent 3px)`"
     />
     <div
-      v-if="stats.postponed.distance"
+      v-if="stats.unknown.distance"
       class="bg-lvv-pink text-xs font-medium text-white text-center p-1 leading-none ml-auto"
-      :style="`width: ${stats.postponed.percent}%`"
+      :style="`width: ${stats.unknown.percent}%`"
     >
-      <span v-if="stats.postponed.percent > 5">{{ displayPercent(stats.postponed.percent) }}</span>
+      <span v-if="stats.unknown.percent > 5">{{ displayPercent(stats.unknown.percent) }}</span>
     </div>
   </div>
 </template>

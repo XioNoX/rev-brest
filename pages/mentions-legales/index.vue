@@ -79,7 +79,16 @@
       <div class="mt-6 prose prose-lg text-gray-500 mx-auto">
         <h2>Hébergement</h2>
         <p>
-          Ce site Web est hébergé par la société OVH (<a href="https://www.ovh.com/fr/">https://www.ovh.com/fr/</a>).
+          Ce site Web est hébergé par <a href="https://www.vercel.com/" target="_blank" rel="noopener noreferrer">Vercel</a>.
+        </p>
+        <h2>Logo</h2>
+        <p>
+          Réalisé par Clémentine CHAMINADE - 
+          <a
+            href="https://www.instagram.com/guinguette.lab/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >@guinguette.lab</a>
         </p>
         <p>
           OVH SAS<br />SAS au capital de 50 000 000 €<br />RCS Lille Métropole 424 761 419 00045<br />Code APE 2620Z<br />N°
