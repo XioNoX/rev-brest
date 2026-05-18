@@ -14,8 +14,8 @@
     :available-years="availableYears"
     :counters="counters"
     :filtered-features="filteredFeatures"
-    search-placeholder="Chercher un compteur, une ville, une VL..."
-    empty-search-hint="Essayez un nom de rue (ex: Lafayette), une ville (ex: Guipavas) ou une BREV (ex: VL 3)"
+    search-placeholder="Chercher un compteur, une ville..."
+    empty-search-hint="Essayez un nom de rue (ex: Palaren) ou une ville (ex: Guipavas)"
   >
     <template #header>
       <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
@@ -130,9 +130,9 @@ const { searchText, showVoiesLyonnaises, highlightedCounter, filteredFeatures } 
   showMap,
 });
 
-const PAGE_TITLE = "Compteurs vélo de l'agglomération lyonnaise | Cyclopolis";
+const PAGE_TITLE = "Compteurs vélo de Brest métropole | Cyclopolis";
 const DESCRIPTION =
-  'Carte interactive et classement des compteurs vélo de la métropole de Lyon. ' +
+  'Carte interactive et classement des compteurs vélo de la métropole de Brest. ' +
   'Suivez la fréquentation cycliste mois par mois, comparez les années et explorez ' +
   "l'évolution du trafic.";
 
