@@ -91,21 +91,35 @@ Marqué comme "prévu" sur la carte car mentionné par le Schéma Directeur Vél
 Voie verte Guilers-St Renan : amélioration du revêtement, objectif même qualité que sur St Renan
 ::
 
-Le manque de revêtement praticable pas tout type de vélo est en effet le premier frein à son utilisation. De plus il faudrait :
-- L'élargir
-- Rajouter de la signalétique
-- Sécuriser les intersections
+Deux améliorations seraient :
+- d'ajouter une bande cyclable le long de la route de la Tour
+- de poursuivre le revêtement réalisé à l'approche de Saint Renan sur l'ensemble du chemin de la Tour.
 
+### Intersection avec la D67-Pontavennec
+
+::banner{type="unsecured"}
+Actuellement dangereuse : malgré le radar pédagogique, la vitesse des véhicules est généralement supérieure à 30km/h. De plus les cyclistes qui sortent de l'allée très arborée sont visibles tardivement par les automobilistes.
+::
 
 ### Allée du chemin de Fer
 Marqué comme "terminé" car il n'y a rien de significatif à changer.
-
-Voilà, vous êtes arrivé.e.s à Saint Renan. 👍
+Aux abords du lac Ty Colo, une amélioration serait d'ajouter une séparation physique entre la piste cyclable et le chemin piéton.
 
 ### Traversée de Saint Renan
+::banner{type="unsecured"}
+Actuellement dangereuse pour plusieurs raisons :
+Tout d'abord par manque de signalisation entre le stade Ty Colo et le rond-point situé à l'intersection entre le boulevard du Ponant et la rue du Pont de Bois.
+Il existe ensuite une piste unidirectionnelle sur le trottoir le long de la rue du Pont de Bois, de la rue Léon Cheminant et de la rue Commandant Thuilliez.
+Une amélioration serait de séparer la piste cyclable de l'espace piéton.
+::
 
-*À faire*
+### Rue de l'Aber
+Une piste unidirectionnelle se poursuit le long de la rue de l'Aber puis rejoint le chemin piéton qui longe le lac de la Laverie puis le lac de Lannéon.
+::banner{type="unsecured"}
+Manque de signalisation pour rejoindre en sécurité la nouvelle piste cyclable en directions de Plouarzel
+::
 
-### Route de Saint Renan
+### D5 Kerrigent Névez
+Piste cyclable terminée
 
-"Les travaux de la future piste cyclable qui reliera Plouarzel et Saint-Renan viennent de débuter. La fin des travaux est prévue pour avant le début de l’été 2025." - [Le Télégramme 15 octobre 2024](https://www.letelegramme.fr/finistere/plouarzel-29810/une-nouvelle-piste-cyclable-entre-saint-renan-et-plouarzel-6682837.php)
+"Nouvelle piste cyclable Plouarzel - Saint-Renan : une avancée pour la mobilité durable en Iroise"- [Le Télégramme 13 juillet 2025](https://www.letelegramme.fr/finistere/plouarzel-29810/nouvelle-piste-cyclable-plouarzel-saint-renan-une-avancee-pour-la-mobilite-durable-en-iroise-6854779.php)
