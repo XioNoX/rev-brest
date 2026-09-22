@@ -132,9 +132,7 @@ export const useStats = () => {
     });
 
     const wipFeatures = features.filter((feature) => ['wip', 'tested'].includes(feature.properties.status ?? ''));
-    const plannedFeatures = features.filter((feature) =>
-      ['planned'].includes(feature.properties.status ?? ''),
-    );
+    const plannedFeatures = features.filter((feature) => ['planned'].includes(feature.properties.status ?? ''));
     const postponedFeatures = features.filter((feature) =>
       ['postponed', 'variante-postponed'].includes(feature.properties.status ?? ''),
     );
@@ -148,7 +146,6 @@ export const useStats = () => {
     const plannedDistance = getDistance({ features: plannedFeatures });
     const postponedDistance = getDistance({ features: postponedFeatures });
     const unknownDistance = getDistance({ features: unknownFeatures });
-
 
     function getPercent(distance: number) {
       return Math.round((distance / totalDistance) * 100);

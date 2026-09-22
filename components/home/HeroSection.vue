@@ -35,11 +35,13 @@
                 >Plateforme d'imagination</span
               >
               <span class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl">
-                <span class="block text-gray-900">Le </span><span class="block text-lvv-blue-600">{{ getRevName() }}</span><span class="block text-gray-900">de Brest</span>
+                <span class="block text-gray-900">Le </span
+                ><span class="block text-lvv-blue-600">{{ getRevName() }}</span
+                ><span class="block text-gray-900">de Brest</span>
               </span>
             </h1>
             <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-              Une initiative de l'association 
+              Une initiative de l'association
               <a
                 :href="getAssoLink()"
                 target="_blank"
@@ -47,20 +49,22 @@
                 class="text-lvv-blue-600 font-medium hover:underline"
                 ><strong>{{ assoName }}</strong></a
               >
-              pour imaginer un réseau vélo <strong>sûr</strong> et <strong>efficace</strong> à l'échelle de la Métropole Brestoise.
+              pour imaginer un réseau vélo <strong>sûr</strong> et <strong>efficace</strong> à l'échelle de la Métropole
+              Brestoise.
             </p>
-            <p
-              class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
-            >
-            <i>Kinnig ar gevredigezh
-              <a
-                :href="getAssoLink()"
-                target="_blank"
-                rel="noopener"
-                class="text-lvv-blue-600 font-medium hover:underline"
-                ><strong>{{ assoName }}</strong></a
+            <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
+              <i
+                >Kinnig ar gevredigezh
+                <a
+                  :href="getAssoLink()"
+                  target="_blank"
+                  rel="noopener"
+                  class="text-lvv-blue-600 font-medium hover:underline"
+                  ><strong>{{ assoName }}</strong></a
+                >
+                evit ijinañ ur rouedad war varc’h-houarn <strong>sur</strong> hag <strong>efedus</strong> evit Meurger
+                Brest.</i
               >
-              evit ijinañ ur rouedad war varc’h-houarn <strong>sur</strong> hag <strong>efedus</strong> evit Meurger Brest.</i>
             </p>
             <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
               <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
@@ -79,7 +83,10 @@
                     Carte interactive
                   </NuxtLink>
                 </ClientOnly>
-                <NuxtLink to="/blog/methodo" class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-lvv-blue-600 border border-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
+                <NuxtLink
+                  to="/blog/methodo"
+                  class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-lvv-blue-600 border border-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105"
+                >
                   Plus d'infos
                 </NuxtLink>
               </div>

@@ -21,22 +21,18 @@
       <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
         Suivi des {{ counters.length }} compteurs vélo de Brest Métropole
       </h2>
-      <p class="mt-4 text-xl text-gray-500 leading-8">
-        Données de 2014 à 2025.<br>
-      </p>
+      <p class="mt-4 text-xl text-gray-500 leading-8">Données de 2014 à 2025.<br /></p>
       <span class="text-sm text-gray-400"
         >Données&nbsp;:&nbsp; Brest Métropole (<a
           class="hover:underline"
           href="https://madada.fr/demande/donnees_de_comptage_velos"
           target="_blank"
           >2014-2024</a
-        >, <a
-          class="hover:underline"
-          href="https://madada.fr/demande/donnees_de_comptage_velo_2025"
-          target="_blank"
+        >,
+        <a class="hover:underline" href="https://madada.fr/demande/donnees_de_comptage_velo_2025" target="_blank"
           >2025</a
-        >) </span
-      >
+        >)
+      </span>
     </template>
     <template #overview>
       <ChartMetropoleIndex
@@ -130,7 +126,7 @@ const { searchText, showVoiesLyonnaises, highlightedCounter, filteredFeatures } 
   showMap,
 });
 
-const PAGE_TITLE = "Compteurs vélo de Brest métropole | Cyclopolis";
+const PAGE_TITLE = 'Compteurs vélo de Brest métropole | Cyclopolis';
 const DESCRIPTION =
   'Carte interactive et classement des compteurs vélo de la métropole de Brest. ' +
   'Suivez la fréquentation cycliste mois par mois, comparez les années et explorez ' +

@@ -54,7 +54,7 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
     {
       label: 'Souhaité',
       isEnabled: true,
-       statuses: ['postponed', 'variante-postponed'],
+      statuses: ['postponed', 'variante-postponed'],
       customStyle: {
         backgroundColor: '#C84271',
         borderColor: '#C84271',

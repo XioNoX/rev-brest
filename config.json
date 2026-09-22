@@ -3,21 +3,17 @@
     "plural": "BREV",
     "singular": "BREV",
     "abbreviated": "BREV"
-
   },
   "assoName": "Brest à Pied et à Vélo",
   "assoLink": "https://bapav.org",
   "slug": "brev",
-  "center": [
-    -4.4859,
-    48.3905
-  ],
+  "center": [-4.4859, 48.3905],
   "bounds": [
     [-4.66, 48.32],
     [-4.32, 48.46]
   ],
   "zoom": 12,
-"nbVoiesCyclables": 10,
+  "nbVoiesCyclables": 10,
   "colors": [
     {
       "line": 1,

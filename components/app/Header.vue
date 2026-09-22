@@ -5,11 +5,7 @@
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex items-center space-x-2">
             <span class="sr-only">Cyclopolis</span>
-            <img
-              class="h-8 w-auto sm:h-12"
-              src="/medias/logo-brev.png"
-              alt="logo BREV"
-            />
+            <img class="h-8 w-auto sm:h-12" src="/medias/logo-brev.png" alt="logo BREV" />
             <img
               class="h-3 w-auto sm:h-6"
               src="https://www.bapav.org/wp-content/uploads/2020/04/cropped-Logo-BaPaV-Bleu-Noir.png"
@@ -89,7 +85,7 @@
                       target="_blank"
                       @click="close()"
                     >
-                    <span>Services</span>
+                      <span>Services</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
@@ -167,11 +163,7 @@
           </Popover>
 
           <!-- Compteurs -->
-          <NuxtLink
-            to="/compteurs/velo"
-            class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-            
-          >
+          <NuxtLink to="/compteurs/velo" class="text-base font-medium text-gray-500 hover:text-lvv-blue-600">
             Compteurs vélo
           </NuxtLink>
         </PopoverGroup>

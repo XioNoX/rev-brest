@@ -80,17 +80,16 @@
     </template>
 
     <h2>Source des données</h2>
-     <p>Brest Métropole (<a
-          class="hover:underline"
-          href="https://madada.fr/demande/donnees_de_comptage_velos"
-          target="_blank"
-          >2014-2024</a
-        >, <a
-          class="hover:underline"
-          href="https://madada.fr/demande/donnees_de_comptage_velo_2025"
-          target="_blank"
-          >2025</a
-        >).</p>
+    <p>
+      Brest Métropole (<a
+        class="hover:underline"
+        href="https://madada.fr/demande/donnees_de_comptage_velos"
+        target="_blank"
+        >2014-2024</a
+      >,
+      <a class="hover:underline" href="https://madada.fr/demande/donnees_de_comptage_velo_2025" target="_blank">2025</a
+      >).
+    </p>
   </ContentFrame>
 </template>
 

@@ -6,23 +6,23 @@
       <div class="space-y-8 sm:space-y-12">
         <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Pourquoi cette initiative ?</h2>
-            <ul class="text-xl text-gray-500">
-              <li>
-               Pour que les cyclistes de Brest puissent se déplacer en sécurité sur leurs trajets quotidiens.
-              </li>
-              <li>
-                Pour que les aménagements à venir sur les lignes définies ici prennent en compte le cahier des charges des <u><a href="/blog/reseau-express-velo">REV</a></u>.
-              </li>
-              <li>
-                Pour que les habitant.e.s de la Métropole puissent se déplacer sans voiture et le coût qui lui est associé.
-              </li>
-              <li>
-                Pour donner des idées aux élu.e.s en cours et futurs. Maintenant que le projet du 2ème tram est sur des rails.
-              </li>
-              <li>
-                Pour que Brest Métropole se mette à la page des autres métropoles d'envergure.
-              </li>
-            </ul>
+          <ul class="text-xl text-gray-500">
+            <li>Pour que les cyclistes de Brest puissent se déplacer en sécurité sur leurs trajets quotidiens.</li>
+            <li>
+              Pour que les aménagements à venir sur les lignes définies ici prennent en compte le cahier des charges des
+              <u><a href="/blog/reseau-express-velo">REV</a></u
+              >.
+            </li>
+            <li>
+              Pour que les habitant.e.s de la Métropole puissent se déplacer sans voiture et le coût qui lui est
+              associé.
+            </li>
+            <li>
+              Pour donner des idées aux élu.e.s en cours et futurs. Maintenant que le projet du 2ème tram est sur des
+              rails.
+            </li>
+            <li>Pour que Brest Métropole se mette à la page des autres métropoles d'envergure.</li>
+          </ul>
         </div>
       </div>
       <ProgressBar :voies="voies" class="mt-8 md:mt-10" />
