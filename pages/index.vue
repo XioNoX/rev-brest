@@ -11,7 +11,7 @@
                Pour que les cyclistes de Brest puissent se déplacer en sécurité sur leurs trajets quotidiens.
               </li>
               <li>
-                Pour que les aménagements à venir sur les lignes définies ici prennent en compte le cahier des charges des <u><a href=/blog/reseau-express-velo>REV</a></u>.
+                Pour que les aménagements à venir sur les lignes définies ici prennent en compte le cahier des charges des <u><a href="/blog/reseau-express-velo">REV</a></u>.
               </li>
               <li>
                 Pour que les habitant.e.s de la Métropole puissent se déplacer sans voiture et le coût qui lui est associé.
