@@ -115,7 +115,7 @@ function checkGeoJsonDataHealth({ links }) {
                 process.exit(1);
               }
 
-              if (properties.status === 'done') {
+              if (properties.status === 'done' && Object.hasOwn(properties, 'doneAt')) {
                 /*
                 // 4.1 - Check if all done section have a doneAt property
                 if (!Object.hasOwn(properties, 'doneAt')) {
