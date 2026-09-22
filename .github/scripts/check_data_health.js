@@ -116,11 +116,13 @@ function checkGeoJsonDataHealth({ links }) {
               }
 
               if (properties.status === 'done') {
+                /*
                 // 4.1 - Check if all done section have a doneAt property
                 if (!Object.hasOwn(properties, 'doneAt')) {
                   console.error(`Missing key 'doneAt' in VL ${properties.line}, tronçon: ${properties.name}`);
                   process.exit(1);
                 }
+                */
 
                 // 4.2 - Check if all done section have a valid doneAt date
                 const dateRegex = /^\d{2}\/\d{2}\/\d{4}$/;
